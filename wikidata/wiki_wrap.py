@@ -1,3 +1,9 @@
+'''
+author: ETH Zurich, gta digital, Matteo Lorenzini
+license: please refer to the license.txt file in our git repository (https://github.com/gtadigital/GeoWrapper) 
+'''
+
+
 import pandas as pd
 import requests
 import json
