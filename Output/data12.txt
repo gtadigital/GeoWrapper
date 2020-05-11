@@ -1,0 +1,48 @@
+Kettwig,https://www.geonames.org/2891290
+"Frauenfeld, Bannhaldenstrasse",https://www.geonames.org/10391560
+"Frauenfeld, Oberkirchstrasse",https://www.geonames.org/10395511
+"Frauenfeld, Wannenfeld",https://www.geonames.org/10378606
+"Fribourg, Plateau-de-Pérolles",https://www.geonames.org/10394515
+"Füllinsdorf, Niederschönthal",https://www.geonames.org/10382546
+"Gams, Gasenzen",https://www.geonames.org/10393785
+"Gams, Widen",https://www.geonames.org/10398910
+"Giubiasco, Via Ferriere",https://www.geonames.org/10389321
+"Glarus, Buchholz",https://www.geonames.org/10389587
+"Glarus, Sandstrasse",https://www.geonames.org/10381303
+Wandsbek,https://www.geonames.org/2911285
+"Herisau, Obstmarkt",https://www.geonames.org/10393669
+Hückelhoven-Ratheim,https://www.geonames.org/2898110
+Kassel-Wilhelmshöhe Railway Station,https://www.geonames.org/2892506
+"Kloten, Neubrunnenstrasse",https://www.geonames.org/10397927
+"Langenthal, Mittelstrasse",https://www.geonames.org/10380488
+"Lausanne, Praz-Séchaud",https://www.geonames.org/10389851
+"Lindau, Eschikon",https://www.geonames.org/10382579
+"Locarno, Via Monteguzzo",https://www.geonames.org/10397062
+King's Cross Railway Station,https://www.geonames.org/2645474
+Lugano-Paradiso,https://www.geonames.org/11963274
+"Lugano, Via Balestra",https://www.geonames.org/10380886
+Luzern Allmend,https://www.geonames.org/11963028
+"Luzern, Bahnhof",https://www.geonames.org/10379237
+"Luzern, Berglistrasse",https://www.geonames.org/10389476
+"Luzern, Bramberg",https://www.geonames.org/10397357
+"Luzern, Dietschiberg",https://www.geonames.org/10380774
+"Luzern, Dreilinden",https://www.geonames.org/10399155
+"Luzern, Gärtnerstrasse",https://www.geonames.org/10397852
+"Luzern, Geissmatthöhe",https://www.geonames.org/10385941
+"Luzern, Kasernenplatz",https://www.geonames.org/10392571
+"Luzern, Klosterstrasse",https://www.geonames.org/10383648
+"Luzern, Löwenplatz",https://www.geonames.org/10385472
+"Luzern, Maihof",https://www.geonames.org/10398749
+"Luzern, Paulusplatz",https://www.geonames.org/10384098
+"Luzern, Pilatusplatz",https://www.geonames.org/10379398
+"Luzern, Rigistrasse",https://www.geonames.org/10398892
+"Luzern, Schlösslirain",https://www.geonames.org/10381691
+"Luzern, Schwanenplatz",https://www.geonames.org/10397958
+"Luzern, Sternmatt",https://www.geonames.org/10395091
+"Neuchâtel, Monruz",https://www.geonames.org/10387011
+"Neuenegg, Bahnhof",https://www.geonames.org/10381589
+"Olten, Baslerstrasse",https://www.geonames.org/10392799
+"Olten, Feldstrasse",https://www.geonames.org/10398258
+"Olten, Schützenmatte",https://www.geonames.org/10390565
+La Defense,https://www.geonames.org/3009670
+"Savosa, Crocifisso",https://www.geonames.org/10392747

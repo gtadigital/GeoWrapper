@@ -1,0 +1,50 @@
+Arosa Kulm,https://www.geonames.org/9781433
+"Arosa, Maran",https://www.geonames.org/10381458
+Arth-Goldau,https://www.geonames.org/2661707
+"Bad Zurzach, Baslerstrasse",https://www.geonames.org/10390444
+"Baden, Römerstrasse",https://www.geonames.org/10387388
+Barcelona - Passeig de Gracia,https://www.geonames.org/9858442
+"Basel, Allmendstrasse",https://www.geonames.org/10393059
+"Basel, Blotzheimerstrasse",https://www.geonames.org/10386812
+"Basel, Claragraben",https://www.geonames.org/10390090
+"Basel, Gellertstrasse",https://www.geonames.org/10390240
+"Basel, Käferholzstrasse",https://www.geonames.org/10392086
+"Basel, Nasenweg",https://www.geonames.org/10381306
+"Basel, Redingstrasse",https://www.geonames.org/10379769
+"Basel, Schorenweg",https://www.geonames.org/10387684
+Basel St. Johann,https://www.geonames.org/11962898
+"Basel, Wanderstrasse",https://www.geonames.org/10396268
+"Basel, Wettsteinallee",https://www.geonames.org/10378848
+"Basel, Winkelriedplatz",https://www.geonames.org/10392249
+"Bellach, Hubel",https://www.geonames.org/10397829
+Charlottenburg,https://www.geonames.org/2940187
+Dahlem,https://www.geonames.org/2939440
+Berlin Friedrichstraße station,https://www.geonames.org/2924447
+Hansaviertel,https://www.geonames.org/8334620
+Berlin Heerstraße,https://www.geonames.org/11976363
+Berlin Schönhauser Allee,https://www.geonames.org/11976309
+Siemensstadt,https://www.geonames.org/2832373
+"Bern, Bundesplatz",https://www.geonames.org/10383313
+"Bern, Kasernenstrasse",https://www.geonames.org/10385233
+"Bern, Lorraine",https://www.geonames.org/10384659
+"Bern, Zähringerstrasse",https://www.geonames.org/10381980
+"Bolligen, Lutertal",https://www.geonames.org/10391005
+"Bülach, Berglistrasse",https://www.geonames.org/10392155
+"Burgdorf, Heimiswilstrasse",https://www.geonames.org/10380407
+"Burgdorf, Kirchbergstrasse",https://www.geonames.org/10385435
+"Burgdorf, Poststrasse",https://www.geonames.org/10387017
+Cham Alpenblick,https://www.geonames.org/11963087
+"Choëx, Prafenne",https://www.geonames.org/10383646
+"Chur, Fortunastrasse",https://www.geonames.org/10378743
+"Chur, Hof",https://www.geonames.org/10393304
+"Chur, Postplatz",https://www.geonames.org/10380039
+"Chur, Quaderstrasse",https://www.geonames.org/10384082
+"Chur, Sägenstrasse",https://www.geonames.org/10384652
+Wolfgang,https://www.geonames.org/2657960
+"Dietikon, Hätschen",https://www.geonames.org/10393727
+"Dübendorf, Bettlistrasse",https://www.geonames.org/10390033
+"Dübendorf, Grüzenstrasse",https://www.geonames.org/10389394
+"Dürrenroth, Hulligen",https://www.geonames.org/10400063
+Emmenbrücke Gersag,https://www.geonames.org/11963018
+"Ennenda, Villastrasse",https://www.geonames.org/10380898
+"Ennetbaden, Geissbergstrasse",https://www.geonames.org/10379826

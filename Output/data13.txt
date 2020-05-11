@@ -1,0 +1,62 @@
+"Schaffhausen, Quellenstrasse",https://www.geonames.org/10389100
+"Schaffhausen, Waldfriedhof",https://www.geonames.org/11055242
+"Schwyz, Herrengasse",https://www.geonames.org/10384514
+"Solothurn, Bergstrasse",https://www.geonames.org/10379477
+"Solothurn, Schöngrünstrasse",https://www.geonames.org/10399982
+"Solothurn, Wildbachstrasse",https://www.geonames.org/10387061
+St. Gallen Bruggen,https://www.geonames.org/11963374
+"St. Gallen, Goethestrasse",https://www.geonames.org/10388953
+"St. Gallen, Rosenbergstrasse",https://www.geonames.org/10385019
+"St. Gallen, Rotmonten",https://www.geonames.org/10390192
+St. Gallen St. Fiden,https://www.geonames.org/11963386
+St. Gallen Winkeln,https://www.geonames.org/11963369
+"St. Gallen, Bernhardswies",https://www.geonames.org/10379020
+Tenero-Contra,https://www.geonames.org/7287288
+"Thun, Länggasse",https://www.geonames.org/10391324
+"Uster, Ackerstrasse",https://www.geonames.org/10385614
+"Uster, Hegetsberg",https://www.geonames.org/10379665
+"Uzwil, Schöntal",https://www.geonames.org/10383401
+"Volketswil, Hegnau",https://www.geonames.org/10381636
+"Wädenswil, Giessen",https://www.geonames.org/10380451
+"Wädenswil, Hangenmoos",https://www.geonames.org/10385422
+"Wädenswil, Schlossbergstrasse",https://www.geonames.org/10394183
+"Wallisellen, Riedenerstrasse",https://www.geonames.org/10399206
+"Wallisellen, Säntisstrasse",https://www.geonames.org/10391670
+"Wallisellen, Spitzacker",https://www.geonames.org/10389097
+Gemeindebezirk Josefstadt,https://www.geonames.org/2775027
+Leopoldstadt,https://www.geonames.org/2772614
+Gemeindebezirk Ottakring,https://www.geonames.org/2769357
+"Winterthur, Endliker",https://www.geonames.org/10385817
+"Winterthur, Hardau",https://www.geonames.org/10381420
+"Winterthur, Irchelstrasse",https://www.geonames.org/10382241
+"Winterthur, Lindenplatz",https://www.geonames.org/10385819
+"Winterthur, Oberfeld",https://www.geonames.org/10395218
+"Winterthur, Pflanzschulstrasse",https://www.geonames.org/10387471
+"Winterthur, Stadtrain",https://www.geonames.org/10397404
+"Winterthur, Turmstrasse",https://www.geonames.org/10396787
+"Zollikerberg, Sennhof",https://www.geonames.org/10391058
+"Zug, Bellevueweg",https://www.geonames.org/10388518
+"Zug, Fadenstrasse",https://www.geonames.org/10388177
+"Zug, Kolinplatz",https://www.geonames.org/10390405
+"Zug, Oberwiler Kirchweg",https://www.geonames.org/10390681
+"Zürich, Altenhofstrasse",https://www.geonames.org/10398284
+"Zürich, Am Suteracher",https://www.geonames.org/10382348
+"Zürich, Berghaldenstrasse",https://www.geonames.org/10382554
+"Zürich, Birchstrasse",https://www.geonames.org/10390404
+"Zürich, Bleulerstrasse",https://www.geonames.org/10381711
+"Zürich, Bocklerstrasse",https://www.geonames.org/10388660
+"Zürich, Brandschenkestrasse",https://www.geonames.org/10387861
+"Zürich, Breitensteinstrasse",https://www.geonames.org/10393500
+"Zürich, Drusbergstrasse",https://www.geonames.org/10382218
+"Zürich, Feusisbergli",https://www.geonames.org/10400051
+"Zürich, Flobotstrasse",https://www.geonames.org/10399981
+"Zürich, Flühgasse",https://www.geonames.org/10381556
+"Zürich, Flurstrasse",https://www.geonames.org/10379475
+"Zürich, Freiestrasse",https://www.geonames.org/10381939
+"Zürich, Freilagerstrasse",https://www.geonames.org/10399325
+"Zürich, Friedhof Sihlfeld",https://www.geonames.org/10387842
+Zürich-Friesenberg,https://www.geonames.org/7931949
+"Zürich, Friesenberghalde",https://www.geonames.org/10396014
+"Zürich, Friesenbergstrasse",https://www.geonames.org/10398531
+"Zürich, Gessnerallee",https://www.geonames.org/10390286
+Zürich-Giesshübel,https://www.geonames.org/7931948

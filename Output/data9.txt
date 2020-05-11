@@ -1,0 +1,889 @@
+Benghazi,https://www.geonames.org/88319
+Northern,https://www.geonames.org/11523918
+Western Cape,https://www.geonames.org/1085599
+Alexandria,https://www.geonames.org/361058
+As Sūdān,https://www.geonames.org/98470
+Mtwara,https://www.geonames.org/877747
+Médéa,https://www.geonames.org/2488835
+Brits,https://www.geonames.org/1015621
+Oran,https://www.geonames.org/2485926
+Durban,https://www.geonames.org/1007311
+Cape Town,https://www.geonames.org/3369157
+Oum el Bouaghi,https://www.geonames.org/2484620
+Tunis,https://www.geonames.org/2464470
+Skikda,https://www.geonames.org/2479536
+Sud-Kivu,https://www.geonames.org/205413
+Kano,https://www.geonames.org/2335204
+Alexandria,https://www.geonames.org/361058
+Giza,https://www.geonames.org/360995
+Tébessa,https://www.geonames.org/2477461
+Tipasa,https://www.geonames.org/2476028
+Cairo,https://www.geonames.org/360630
+Port Said,https://www.geonames.org/358619
+Luxor,https://www.geonames.org/7603259
+Burkina Faso,https://www.geonames.org/2361809
+Burundi,https://www.geonames.org/433561
+Al Karnak,https://www.geonames.org/360964
+Cameroon,https://www.geonames.org/2233387
+Oyo,https://www.geonames.org/2325200
+Suez,https://www.geonames.org/359797
+Suez,https://www.geonames.org/359797
+Aswān,https://www.geonames.org/359792
+Giza,https://www.geonames.org/360995
+Lubumbashi,https://www.geonames.org/922704
+Ivory Coast,https://www.geonames.org/2287781
+Aswān,https://www.geonames.org/359792
+Mityana,https://www.geonames.org/8644152
+Johannesburg,https://www.geonames.org/993800
+Port Said,https://www.geonames.org/358619
+Ghana,https://www.geonames.org/2300660
+Wakiso District,https://www.geonames.org/448224
+Queenstown,https://www.geonames.org/1882077
+Ar Riqqah,https://www.geonames.org/285728
+Cairo,https://www.geonames.org/360630
+Ethiopia,https://www.geonames.org/337996
+Kenya,https://www.geonames.org/192950
+Edfu,https://www.geonames.org/355635
+Pretoria,https://www.geonames.org/964137
+Liberia,https://www.geonames.org/2275384
+Libya,https://www.geonames.org/2215636
+Sasolburg,https://www.geonames.org/957487
+Madagascar,https://www.geonames.org/1062947
+Mauritius,https://www.geonames.org/934292
+Cairo,https://www.geonames.org/360630
+Nigeria,https://www.geonames.org/2328926
+Qina,https://www.geonames.org/350550
+Central African Republic,https://www.geonames.org/239880
+Rwanda,https://www.geonames.org/49518
+Helwan,https://www.geonames.org/355795
+Senegal,https://www.geonames.org/2245662
+Sohag,https://www.geonames.org/347794
+Sesel,https://www.geonames.org/6257576
+South Africa,https://www.geonames.org/8335359
+Tanzania,https://www.geonames.org/149590
+Togo,https://www.geonames.org/2363686
+Tunis,https://www.geonames.org/2464470
+Uganda,https://www.geonames.org/226074
+Zambia,https://www.geonames.org/895949
+Sohag,https://www.geonames.org/347794
+Memphis,https://www.geonames.org/4641239
+Thebes,https://www.geonames.org/252910
+Saqqara,https://www.geonames.org/349608
+ACT,https://www.geonames.org/2177478
+Adelaide,https://www.geonames.org/2078025
+New South Wales,https://www.geonames.org/2155400
+South Australia,https://www.geonames.org/2061327
+Canberra,https://www.geonames.org/2172517
+Tasmania,https://www.geonames.org/2147291
+Victoria,https://www.geonames.org/241131
+Bay View,https://www.geonames.org/5146666
+Elwood,https://www.geonames.org/5774482
+Launceston,https://www.geonames.org/7839678
+Melbourne,https://www.geonames.org/2158177
+Carlingford,https://www.geonames.org/5917182
+Renmark,https://www.geonames.org/2151737
+Kensington,https://www.geonames.org/11495174
+North Sydney,https://www.geonames.org/6090698
+Piora,https://www.geonames.org/2152970
+Sydney,https://www.geonames.org/2147714
+Wahroonga,https://www.geonames.org/2145092
+Czechoslovakia,https://www.geonames.org/8505031
+Bogotá,https://www.geonames.org/3688689
+Brasília,https://www.geonames.org/3469058
+Cuenca,https://www.geonames.org/3658666
+Provincia del Azuay,https://www.geonames.org/3660431
+Maldonado,https://www.geonames.org/3441894
+Ancash,https://www.geonames.org/3699674
+Cartagena,https://www.geonames.org/3687238
+Guacara,https://www.geonames.org/3640465
+Maracay,https://www.geonames.org/3632998
+Buenos Aires,https://www.geonames.org/3435910
+Aragua,https://www.geonames.org/3649110
+Caracas,https://www.geonames.org/3646738
+Puerto Cabello,https://www.geonames.org/3629706
+Mérida,https://www.geonames.org/3523349
+Valencia,https://www.geonames.org/2509954
+Bogotá,https://www.geonames.org/3688689
+Amazonas,https://www.geonames.org/3689982
+Montería,https://www.geonames.org/3674453
+Oxapampa,https://www.geonames.org/3933874
+Departamento de Bolívar,https://www.geonames.org/3688650
+Porlamar,https://www.geonames.org/3629965
+Buenos Aires,https://www.geonames.org/3435910
+Montevideo,https://www.geonames.org/3441575
+Quito,https://www.geonames.org/3652462
+Maldonado,https://www.geonames.org/3441894
+Chimbote,https://www.geonames.org/3698304
+Montevideo,https://www.geonames.org/3441575
+Carabobo,https://www.geonames.org/3646751
+Argentina,https://www.geonames.org/3865483
+Maule Region,https://www.geonames.org/3880306
+Córdoba,https://www.geonames.org/3860259
+Asunción,https://www.geonames.org/3474570
+Cusco,https://www.geonames.org/3941584
+Cusco,https://www.geonames.org/3941584
+Tucumán,https://www.geonames.org/3836873
+Buenos Aires F.D.,https://www.geonames.org/3433955
+Santiago Metropolitan,https://www.geonames.org/3873544
+Distrito Federal,https://www.geonames.org/12070209
+La Rioja,https://www.geonames.org/3848950
+Córdoba,https://www.geonames.org/3860259
+Valparaíso,https://www.geonames.org/3868626
+Córdoba,https://www.geonames.org/3860259
+Bolivia,https://www.geonames.org/3923057
+Mendoza,https://www.geonames.org/3844421
+Brazil,https://www.geonames.org/3469034
+Mérida,https://www.geonames.org/3523349
+Miranda,https://www.geonames.org/6323765
+Nueva Esparta,https://www.geonames.org/12031542
+Lima,https://www.geonames.org/3936456
+Pichincha,https://www.geonames.org/3657683
+Machupicchu,https://www.geonames.org/8350009
+Chile,https://www.geonames.org/3895114
+La Rioja,https://www.geonames.org/3848950
+Colombia,https://www.geonames.org/3686110
+Goiana,https://www.geonames.org/6320509
+Mendoza,https://www.geonames.org/3844421
+Trujillo,https://www.geonames.org/3691175
+Pasco,https://www.geonames.org/5166214
+Ecuador,https://www.geonames.org/3658394
+Minas Gerais,https://www.geonames.org/3457153
+Belo Horizonte,https://www.geonames.org/3470127
+Lima,https://www.geonames.org/3936456
+Pernambuco,https://www.geonames.org/3392268
+Recife,https://www.geonames.org/3390760
+Tucumán,https://www.geonames.org/3836873
+Botucatu,https://www.geonames.org/3469136
+Rio de Janeiro,https://www.geonames.org/3451190
+Rio Grande do Sul,https://www.geonames.org/3451133
+São Paulo,https://www.geonames.org/3448439
+Porto Alegre,https://www.geonames.org/3452925
+Paraguay,https://www.geonames.org/3437598
+Peru,https://www.geonames.org/3932488
+Manaus,https://www.geonames.org/3663517
+Uruguay,https://www.geonames.org/3439705
+Venezuela,https://www.geonames.org/3625428
+Niterói,https://www.geonames.org/3456283
+Petrópolis,https://www.geonames.org/3454031
+La Plata,https://www.geonames.org/3432043
+Rio de Janeiro,https://www.geonames.org/3451190
+Pedregulho,https://www.geonames.org/6322453
+Ouro Preto,https://www.geonames.org/3455671
+São Paulo,https://www.geonames.org/3448439
+São Pedro,https://www.geonames.org/3448380
+Sao Vicente,https://www.geonames.org/3374198
+São José dos Campos,https://www.geonames.org/3448636
+Parral,https://www.geonames.org/4004867
+Quillota,https://www.geonames.org/3874119
+Santiago,https://www.geonames.org/3871336
+Valparaíso,https://www.geonames.org/3868626
+Azad Kashmir,https://www.geonames.org/1184196
+Ahmedabad,https://www.geonames.org/1279233
+Delhi,https://www.geonames.org/1273294
+Gujarat,https://www.geonames.org/1270771
+Karnataka,https://www.geonames.org/1267701
+New Delhi,https://www.geonames.org/1261481
+Maharashtra,https://www.geonames.org/1264419
+Punjab,https://www.geonames.org/1167710
+Punjab,https://www.geonames.org/1167710
+Bengaluru,https://www.geonames.org/1277333
+Uttar Pradesh,https://www.geonames.org/1253626
+West Bengal,https://www.geonames.org/1252881
+Chandigarh,https://www.geonames.org/1274746
+Nangal,https://www.geonames.org/1261922
+Kalyani,https://www.geonames.org/1268293
+Kharagpur,https://www.geonames.org/1266975
+Kolkata,https://www.geonames.org/1275004
+Mumbai,https://www.geonames.org/1275339
+Shimla,https://www.geonames.org/1256237
+Fatehpur Sikri,https://www.geonames.org/1271900
+Pune,https://www.geonames.org/1259229
+Sevāgrām,https://www.geonames.org/1256780
+Central,https://www.geonames.org/11961322
+Kabul,https://www.geonames.org/1138958
+Colombo,https://www.geonames.org/1248991
+Kandy,https://www.geonames.org/1241622
+Chittagong,https://www.geonames.org/1205733
+Qazvin,https://www.geonames.org/119505
+Ahvāz,https://www.geonames.org/144448
+Dhaka,https://www.geonames.org/1185241
+Jaffna,https://www.geonames.org/1242833
+Afghanistan,https://www.geonames.org/1149361
+Bam,https://www.geonames.org/141736
+Kelaniya,https://www.geonames.org/1240622
+Northern,https://www.geonames.org/11523918
+Isfahan,https://www.geonames.org/418863
+Chittagong,https://www.geonames.org/1205733
+Western,https://www.geonames.org/8689203
+Isfahan,https://www.geonames.org/418863
+Fars,https://www.geonames.org/134766
+Mūghān,https://www.geonames.org/123114
+Kabul,https://www.geonames.org/1138958
+Kerman,https://www.geonames.org/128234
+Dhaka,https://www.geonames.org/1185241
+Khuzestan,https://www.geonames.org/127082
+Māzandarān,https://www.geonames.org/124545
+Takht-e Jamshīd,https://www.geonames.org/12035849
+Tehran,https://www.geonames.org/112931
+Qazvin,https://www.geonames.org/119505
+Tehran,https://www.geonames.org/112931
+Bharat,https://www.geonames.org/1182727
+Iran,https://www.geonames.org/130758
+Nepal,https://www.geonames.org/1282988
+Pakistan,https://www.geonames.org/1168579
+Punjab,https://www.geonames.org/1167710
+Sindh,https://www.geonames.org/1164807
+Bahawalpur,https://www.geonames.org/1183883
+Karachi,https://www.geonames.org/1174872
+Lahore,https://www.geonames.org/1172451
+Caucasus Mountains,https://www.geonames.org/573081
+Zürich (Kreis 4) / Aussersihl,https://www.geonames.org/2661666
+Kleinhüningen,https://www.geonames.org/2660142
+Alps,https://www.geonames.org/11495367
+Bezirk Bucheggberg,https://www.geonames.org/6458841
+Bezirk Dorneck,https://www.geonames.org/6458904
+Bözberg,https://www.geonames.org/11074159
+Bezirk Gäu,https://www.geonames.org/6458742
+Bezirk Gösgen,https://www.geonames.org/6458874
+Croglio,https://www.geonames.org/7285595
+Toggenburg,https://www.geonames.org/2658352
+Sarnersee,https://www.geonames.org/2658784
+Ibergeregg,https://www.geonames.org/8436238
+Bezirk Lebern,https://www.geonames.org/6458829
+Chêne-Bourg,https://www.geonames.org/7285494
+Bodensee,https://www.geonames.org/2781625
+Randen,https://www.geonames.org/2659106
+Olten,https://www.geonames.org/2659297
+Greifensee,https://www.geonames.org/2660516
+Berner Oberland,https://www.geonames.org/2661548
+Rīgī,https://www.geonames.org/7509883
+Klausen Pass,https://www.geonames.org/2660149
+Binnatal,https://www.geonames.org/2661500
+Zürich (Kreis 10) / Höngg,https://www.geonames.org/2660306
+Bezirk Thierstein,https://www.geonames.org/2658380
+Sihlsee,https://www.geonames.org/2658593
+Bezirk Wasseramt,https://www.geonames.org/6458885
+Mutschellen,https://www.geonames.org/7670682
+Zürich (Kreis 11) / Oerlikon,https://www.geonames.org/2659310
+Chillón,https://www.geonames.org/6357132
+Les Acacias,https://www.geonames.org/2659942
+Emmental,https://www.geonames.org/2660908
+Seebach,https://www.geonames.org/2834020
+Obbürgen,https://www.geonames.org/8533630
+Jura,https://www.geonames.org/2645940
+Zürich (Kreis 7) / Witikon,https://www.geonames.org/2657969
+Grimsel Pass,https://www.geonames.org/2660501
+Furka Pass,https://www.geonames.org/2660697
+Gurten,https://www.geonames.org/2777225
+Lake Hallwil,https://www.geonames.org/2660416
+Hoher Kasten,https://www.geonames.org/2603739
+Rhein,https://www.geonames.org/6121721
+Jungfraujoch,https://www.geonames.org/8469019
+Kleine Scheidegg,https://www.geonames.org/2660145
+Klöntal,https://www.geonames.org/8533679
+Marzılı,https://www.geonames.org/585562
+Lenzerheide,https://www.geonames.org/2659951
+Lötschberg,https://www.geonames.org/2659850
+Lungnezertal,https://www.geonames.org/2659826
+Fex,https://www.geonames.org/11219388
+Obach,https://www.geonames.org/2659421
+Oberaargau,https://www.geonames.org/8260141
+Julier Pass,https://www.geonames.org/2660210
+Säntis,https://www.geonames.org/2658798
+Schons,https://www.geonames.org/2658702
+Fuorcla da Lavaz,https://www.geonames.org/11074674
+Schwägalp Passhöhe,https://www.geonames.org/2658686
+Sustenpass,https://www.geonames.org/2658436
+"Maloja, Passo del",https://www.geonames.org/2659777
+Unter Engadin,https://www.geonames.org/2658254
+Walensee,https://www.geonames.org/2658065
+Lake Zug,https://www.geonames.org/2657883
+Zürichberg,https://www.geonames.org/2657894
+Lake Zurich,https://www.geonames.org/2657892
+Ober Engadin,https://www.geonames.org/2659393
+Prättigau,https://www.geonames.org/11549168
+Viamala,https://www.geonames.org/2658140
+Saflischpass,https://www.geonames.org/11075562
+Vispa,https://www.geonames.org/11308867
+Zermeiggern,https://www.geonames.org/2657927
+Baghdad,https://www.geonames.org/98182
+Mosul,https://www.geonames.org/99072
+Anbar,https://www.geonames.org/99592
+Āthār an Namrūd,https://www.geonames.org/448143
+An Najaf,https://www.geonames.org/98862
+An Najaf,https://www.geonames.org/98862
+Bābil,https://www.geonames.org/359442
+Baghdad,https://www.geonames.org/98182
+Nineveh,https://www.geonames.org/92877
+Šumer,https://www.geonames.org/3340918
+Deir ez-Zor,https://www.geonames.org/170792
+Tigris River,https://www.geonames.org/96998
+Australia,https://www.geonames.org/2077456
+Fiji,https://www.geonames.org/2205218
+Al Baḩrayn,https://www.geonames.org/361467
+Al ‘Imārāt,https://www.geonames.org/10936839
+Al ‘Irāq,https://www.geonames.org/7783401
+Kuwait City,https://www.geonames.org/285787
+Jordan,https://www.geonames.org/248816
+Al Yaman,https://www.geonames.org/8735827
+New Zealand,https://www.geonames.org/2186224
+Cuba,https://www.geonames.org/3562993
+El Salvador,https://www.geonames.org/3585968
+Guatemala,https://www.geonames.org/3595528
+Taiwan,https://www.geonames.org/1668284
+Honduras,https://www.geonames.org/3608932
+Jamaica,https://www.geonames.org/3489941
+Mexico City,https://www.geonames.org/3530597
+Panama,https://www.geonames.org/3703430
+Indonesia,https://www.geonames.org/1643084
+República Dominicana,https://www.geonames.org/3542373
+Cyprus,https://www.geonames.org/146669
+Lebanon,https://www.geonames.org/272103
+Malaysia,https://www.geonames.org/1733045
+Nihon,https://www.geonames.org/2089640
+Philippines,https://www.geonames.org/1694008
+Thailand,https://www.geonames.org/1605651
+Qatar,https://www.geonames.org/289688
+Şūrīyah,https://www.geonames.org/11554458
+Vietnam,https://www.geonames.org/1562822
+Israel,https://www.geonames.org/294640
+Zhongguo,https://www.geonames.org/8453880
+Kagawa,https://www.geonames.org/8316079
+Chūō,https://www.geonames.org/2130437
+Hiroshima,https://www.geonames.org/1862415
+Kumamoto,https://www.geonames.org/1858421
+Kamakura,https://www.geonames.org/1860672
+Izumo,https://www.geonames.org/1861084
+Kurashiki,https://www.geonames.org/1858311
+Kurume,https://www.geonames.org/1858088
+Niigata,https://www.geonames.org/1855431
+Fukuoka,https://www.geonames.org/1863967
+Kyoto,https://www.geonames.org/1857910
+Toyama,https://www.geonames.org/1849876
+Gifu City,https://www.geonames.org/1863641
+Hiroshima,https://www.geonames.org/1862415
+Hokkaido,https://www.geonames.org/11257417
+Hyōgo,https://www.geonames.org/2129969
+Osaka,https://www.geonames.org/1853909
+Kagawa,https://www.geonames.org/8316079
+Kanagawa,https://www.geonames.org/1860291
+Kobe,https://www.geonames.org/1859171
+Osaka,https://www.geonames.org/1853909
+Sapporo,https://www.geonames.org/2128295
+Kumamoto,https://www.geonames.org/1858421
+Kyoto,https://www.geonames.org/1857910
+Shibuya,https://www.geonames.org/11134221
+Niigata,https://www.geonames.org/1855431
+Tokyo,https://www.geonames.org/1850147
+Okayama,https://www.geonames.org/1854383
+Osaka,https://www.geonames.org/1853909
+Shimane,https://www.geonames.org/10987750
+Tokyo,https://www.geonames.org/1850147
+Toyama,https://www.geonames.org/1849876
+Ankara,https://www.geonames.org/323786
+Antalya,https://www.geonames.org/323777
+Anatolia,https://www.geonames.org/323835
+Aydin,https://www.geonames.org/322830
+Ankara,https://www.geonames.org/323786
+Bodrum,https://www.geonames.org/320995
+Didim,https://www.geonames.org/8632405
+Didyma,https://www.geonames.org/263115
+Güllübahçe,https://www.geonames.org/313709
+Güllübahçe Turun,https://www.geonames.org/298734
+Çumra,https://www.geonames.org/317844
+Izmir,https://www.geonames.org/311046
+Örencik,https://www.geonames.org/741081
+Konya,https://www.geonames.org/306571
+Kütahya,https://www.geonames.org/305268
+Yüksel,https://www.geonames.org/320634
+Muğla,https://www.geonames.org/304183
+Prien,https://www.geonames.org/4338068
+Izmir,https://www.geonames.org/311046
+Selimiye,https://www.geonames.org/301232
+Mesopotamia (Roman province),https://www.geonames.org/8378519
+Abu Dhabi,https://www.geonames.org/292969
+Zehlendorf,https://www.geonames.org/2805059
+Cepas,https://www.geonames.org/4014844
+Hohenschwangau,https://www.geonames.org/2901486
+Jiddah,https://www.geonames.org/10972365
+English Channel,https://www.geonames.org/2649991
+Auteuil,https://www.geonames.org/3035963
+Belle Île,https://www.geonames.org/3033682
+Bad Godesberg,https://www.geonames.org/2953455
+Griesheim,https://www.geonames.org/2917412
+Tahoe Lake,https://www.geonames.org/5275370
+Long Island,https://www.geonames.org/3572005
+Pyrenees,https://www.geonames.org/7602726
+Ar Riyāḑ,https://www.geonames.org/108411
+Tel Aviv,https://www.geonames.org/293397
+Uxmal,https://www.geonames.org/3514895
+Yucatán,https://www.geonames.org/3514211
+Bandung,https://www.geonames.org/1650357
+Wilmersdorf,https://www.geonames.org/2808478
+Hydra,https://www.geonames.org/261822
+Corse,https://www.geonames.org/3023517
+Monterrey,https://www.geonames.org/3995465
+New England,https://www.geonames.org/11919979
+Northridge,https://www.geonames.org/5377985
+Shaxi,https://www.geonames.org/1280017
+Schierstein,https://www.geonames.org/2839380
+Wimpfen am Berg,https://www.geonames.org/2808318
+Al ’Ayn,https://www.geonames.org/2542048
+Bangkok,https://www.geonames.org/1609350
+Spandau,https://www.geonames.org/7290252
+Steglitz,https://www.geonames.org/2829109
+Tempelhof,https://www.geonames.org/2823540
+Chichen Itza,https://www.geonames.org/3530978
+Neustadt,https://www.geonames.org/2864067
+Friuli,https://www.geonames.org/3221442
+Paris 13 Gobelins,https://www.geonames.org/3015772
+Guangzhou,https://www.geonames.org/1809858
+Altona,https://www.geonames.org/2911296
+Rissen,https://www.geonames.org/9242153
+Hyde Park,https://www.geonames.org/2646325
+Jakarta,https://www.geonames.org/1642911
+Jugenheim,https://www.geonames.org/2894581
+Kabah,https://www.geonames.org/3526334
+Carpathian Mountains,https://www.geonames.org/682674
+Kijkduin,https://www.geonames.org/2752842
+Deutz,https://www.geonames.org/2937790
+Kuala Lumpur,https://www.geonames.org/1735161
+George Lake,https://www.geonames.org/5654003
+Maliá,https://www.geonames.org/10347015
+Mexico City,https://www.geonames.org/3530597
+Nanjing,https://www.geonames.org/1799962
+Ötztal,https://www.geonames.org/2769321
+Eastern Europe,https://www.geonames.org/7729884
+Persia,https://www.geonames.org/4871055
+Ruhr,https://www.geonames.org/2843198
+San Salvador,https://www.geonames.org/3583361
+Sharjah,https://www.geonames.org/292672
+Schönberg,https://www.geonames.org/2836948
+Seoul,https://www.geonames.org/1835848
+Shanghai,https://www.geonames.org/1796236
+Tula,https://www.geonames.org/480562
+Tultitlán de Mariano Escobedo,https://www.geonames.org/3515042
+Williamsburg,https://www.geonames.org/4793846
+Elberfeld,https://www.geonames.org/2931276
+Aegina,https://www.geonames.org/265502
+Jubail,https://www.geonames.org/109435
+Ammersee,https://www.geonames.org/2956426
+Greater Antilles,https://www.geonames.org/3574469
+Arabian Peninsula,https://www.geonames.org/6957697
+Aravaca,https://www.geonames.org/3129827
+Arctic,https://www.geonames.org/10941926
+Bad Hamm,https://www.geonames.org/2953450
+Bahrenfeld,https://www.geonames.org/7932131
+Bali,https://www.geonames.org/1650534
+Balkan Peninsula,https://www.geonames.org/685608
+Barnim,https://www.geonames.org/3103816
+Beersheba,https://www.geonames.org/295530
+Adlershof,https://www.geonames.org/2959441
+Friedrichsfelde,https://www.geonames.org/2924599
+Grünau,https://www.geonames.org/3357074
+Hellersdorf,https://www.geonames.org/2906809
+Johannisthal,https://www.geonames.org/2894755
+Köpenick,https://www.geonames.org/2885656
+Kreuzberg,https://www.geonames.org/2608266
+Lankwitz,https://www.geonames.org/2880498
+Lichterfelde,https://www.geonames.org/2878018
+Marzahn,https://www.geonames.org/2873074
+Moabit,https://www.geonames.org/2870310
+Neukölln,https://www.geonames.org/2864695
+Schöneberg,https://www.geonames.org/2836788
+Siemensstadt,https://www.geonames.org/2832373
+Tiergarten,https://www.geonames.org/7288057
+Alt-Treptow,https://www.geonames.org/2821292
+Wannsee,https://www.geonames.org/2814196
+Westend,https://www.geonames.org/6178578
+Bethlehem,https://www.geonames.org/284315
+Biebrich,https://www.geonames.org/2949235
+Biesdorf,https://www.geonames.org/2949073
+Beuel,https://www.geonames.org/11856169
+Bophuthatswana,https://www.geonames.org/1017446
+Borobudur,https://www.geonames.org/1648141
+Buch,https://www.geonames.org/2942831
+Buzzards Bay,https://www.geonames.org/4931875
+Cape Cod,https://www.geonames.org/4933508
+Chatsworth House,https://www.geonames.org/2653300
+Cuautitlán Izcalli,https://www.geonames.org/3515807
+Cuautla,https://www.geonames.org/3529982
+Kranichstein,https://www.geonames.org/3272967
+Delfshaven,https://www.geonames.org/2757347
+Necker Island,https://www.geonames.org/5851435
+Ivory Coast,https://www.geonames.org/2287781
+Alsace,https://www.geonames.org/3038032
+Encino,https://www.geonames.org/3682657
+Werden,https://www.geonames.org/2810961
+Fara,https://www.geonames.org/2649700
+Floridsdorf,https://www.geonames.org/2779469
+Foula,https://www.geonames.org/2649152
+Praunheim,https://www.geonames.org/2852309
+Galicia,https://www.geonames.org/562153
+Gerása,https://www.geonames.org/10346953
+Glen Lake,https://www.geonames.org/4994017
+Glenside,https://www.geonames.org/5962084
+Yazıkışla,https://www.geonames.org/297363
+Gran Canaria,https://www.geonames.org/2517107
+Grand Canyon,https://www.geonames.org/4388413
+Grötzingen,https://www.geonames.org/2914748
+Groß Glienicker See,https://www.geonames.org/2916381
+Galleria dell’ Appennino,https://www.geonames.org/3182980
+Gustavsburg,https://www.geonames.org/2913460
+Ohlsdorf,https://www.geonames.org/7872015
+Wülfel,https://www.geonames.org/2805948
+Hochkamp,https://www.geonames.org/2903130
+Hollywood,https://www.geonames.org/4158928
+Hong Kong,https://www.geonames.org/1819729
+Hoover Dam,https://www.geonames.org/5157955
+Hosterwitz,https://www.geonames.org/2898442
+Irbid,https://www.geonames.org/248946
+Java,https://www.geonames.org/1642673
+Jerusalem,https://www.geonames.org/293198
+Durlach,https://www.geonames.org/5187606
+Bettenhausen,https://www.geonames.org/7285222
+Waiheke Reeve Airport,https://www.geonames.org/7730729
+Lindenthal,https://www.geonames.org/2877239
+Krym,https://www.geonames.org/1501648
+Hospitalet,https://www.geonames.org/10059733
+Plagwitz,https://www.geonames.org/2853474
+Lhasa,https://www.geonames.org/1280737
+Liepnitzsee,https://www.geonames.org/2877801
+Westwood,https://www.geonames.org/2143934
+Lüneburger Heide,https://www.geonames.org/2875111
+Manila,https://www.geonames.org/1701668
+Marblehead Neck,https://www.geonames.org/4943102
+Masterton,https://www.geonames.org/2187239
+Mecklenburg,https://www.geonames.org/2872570
+Migdal,https://www.geonames.org/10304650
+Bogenhausen,https://www.geonames.org/2947022
+Naushon Island,https://www.geonames.org/4945032
+Nassau Point,https://www.geonames.org/5128322
+Netanya,https://www.geonames.org/294071
+Nazareth,https://www.geonames.org/294098
+Niederschönhausen,https://www.geonames.org/2862888
+North America,https://www.geonames.org/6255149
+Oaxaca,https://www.geonames.org/3522509
+Havana,https://www.geonames.org/3564073
+Eastern Africa,https://www.geonames.org/7729889
+Baltic Sea,https://www.geonames.org/2633321
+Ajman,https://www.geonames.org/292932
+Al Jahrah,https://www.geonames.org/109496
+Manama,https://www.geonames.org/290340
+Beirut,https://www.geonames.org/276781
+Great Britain,https://www.geonames.org/2648147
+Candlewood Reservoir,https://www.geonames.org/5065184
+Chelsea,https://www.geonames.org/5920653
+Damascus,https://www.geonames.org/170654
+East Boston,https://www.geonames.org/4935304
+Guadalajara,https://www.geonames.org/4005539
+Haifa,https://www.geonames.org/294801
+Hanoi,https://www.geonames.org/1581130
+Whitehall,https://www.geonames.org/11494904
+Medellín,https://www.geonames.org/3674962
+Middlesex,https://www.geonames.org/6073255
+Upper Silesia,https://www.geonames.org/3082777
+Provence,https://www.geonames.org/2985246
+San Fernando Valley,https://www.geonames.org/5391956
+Silesia,https://www.geonames.org/3066138
+Scandinavia,https://www.geonames.org/2614165
+Sussex,https://www.geonames.org/2403669
+Wallington,https://www.geonames.org/2144905
+IJsselmeer,https://www.geonames.org/2753361
+Sydenham,https://www.geonames.org/6160738
+Prins Alexanderpolder,https://www.geonames.org/2748451
+Providence,https://www.geonames.org/5224151
+Al Bahah,https://www.geonames.org/109953
+Hillegersberg,https://www.geonames.org/2754074
+Painted Desert,https://www.geonames.org/5307805
+Pannonia (Roman province),https://www.geonames.org/8181615
+Peover Superior,https://www.geonames.org/2640375
+Pétra,https://www.geonames.org/10195160
+Pfalz,https://www.geonames.org/2854270
+Pinar del Río,https://www.geonames.org/3544091
+Qiqihar,https://www.geonames.org/2035265
+Santa Cruz Islands,https://www.geonames.org/2178509
+Remshalden,https://www.geonames.org/2848261
+Roehampton,https://www.geonames.org/11495204
+Roatán,https://www.geonames.org/3602737
+Sahara,https://www.geonames.org/1366117
+Saint-Louis,https://www.geonames.org/935223
+Sanaa,https://www.geonames.org/71137
+Santa Catalina Island,https://www.geonames.org/2178511
+Santiago de Cuba,https://www.geonames.org/3536729
+South Atlantic Ocean,https://www.geonames.org/3358844
+Kranzbach,https://www.geonames.org/9881873
+Shibam,https://www.geonames.org/6940744
+Short Hills,https://www.geonames.org/5104630
+Untertürkheim,https://www.geonames.org/11807542
+Zuffenhausen,https://www.geonames.org/2803756
+Taidong,https://www.geonames.org/2034605
+Taiwan,https://www.geonames.org/1668284
+Taxco de Alarcón,https://www.geonames.org/8581995
+Telegraph Hill,https://www.geonames.org/5401353
+Tenerife,https://www.geonames.org/3667302
+Teotihuacán Municipality,https://www.geonames.org/8379475
+Tverya,https://www.geonames.org/293322
+Dead Sea,https://www.geonames.org/295347
+Travemünde,https://www.geonames.org/2821480
+Wiblingen,https://www.geonames.org/2809818
+Viñales,https://www.geonames.org/3534094
+Volta Region,https://www.geonames.org/2294234
+Wachwitz,https://www.geonames.org/2815625
+Kollnau,https://www.geonames.org/2886286
+Wartburg,https://www.geonames.org/941925
+Watzmann,https://www.geonames.org/2813594
+Waverley Abbey,https://www.geonames.org/2634650
+Westland County,https://www.geonames.org/2179464
+Westmorland,https://www.geonames.org/5408445
+Wilanów,https://www.geonames.org/3082020
+Wilhelmsburg,https://www.geonames.org/2808748
+Wimpfen im Tal,https://www.geonames.org/2808317
+Wolfhausen,https://www.geonames.org/6295543
+IJsselmeer,https://www.geonames.org/2753361
+Don Mills,https://www.geonames.org/5941602
+Mediterranean Sea,https://www.geonames.org/363196
+Penang,https://www.geonames.org/1733047
+Ḩawallī,https://www.geonames.org/285629
+Dordogne,https://www.geonames.org/3021042
+Sounio,https://www.geonames.org/260477
+La Jolla,https://www.geonames.org/5363943
+Eagle Rock,https://www.geonames.org/2167960
+Al Ahmadi,https://www.geonames.org/285839
+Tak,https://www.geonames.org/11047382
+Altona,https://www.geonames.org/2911296
+Lichtenstein,https://www.geonames.org/2878039
+Lake Päijänne,https://www.geonames.org/643167
+Granada Hills,https://www.geonames.org/5353433
+North Ridge,https://www.geonames.org/5580450
+Tujunga,https://www.geonames.org/5403767
+Covent Garden,https://www.geonames.org/2652222
+Reseda,https://www.geonames.org/5387152
+Abbey Wood,https://www.geonames.org/7302135
+Attica,https://www.geonames.org/6692632
+Dahlem,https://www.geonames.org/2960666
+Brompton,https://www.geonames.org/11495397
+Yell,https://www.geonames.org/4669187
+Grunewald,https://www.geonames.org/3205859
+Eddystone Rocks,https://www.geonames.org/2650253
+Rohräcker,https://www.geonames.org/3320092
+Penzing,https://www.geonames.org/2769123
+Schmargendorf,https://www.geonames.org/2838009
+Hudson River,https://www.geonames.org/4201648
+Silesia,https://www.geonames.org/3066138
+Krakow,https://www.geonames.org/3094802
+Tel Aviv,https://www.geonames.org/293397
+Pańków,https://www.geonames.org/762686
+Charlottenburg,https://www.geonames.org/2940187
+Mitte,https://www.geonames.org/6545310
+Candelaria,https://www.geonames.org/3687646
+Schloß Liebenstein,https://www.geonames.org/2877946
+Wedding,https://www.geonames.org/2813472
+Südende,https://www.geonames.org/2825205
+Karlshorst,https://www.geonames.org/2892811
+Prenzlauer Berg,https://www.geonames.org/2852217
+Thamesmead,https://www.geonames.org/11551039
+Degerloch,https://www.geonames.org/11807553
+Ross and Cromarty,https://www.geonames.org/2639129
+Nikolassee,https://www.geonames.org/2862424
+Dorstfeld,https://www.geonames.org/2935527
+Hovinsaari,https://www.geonames.org/657279
+Zuid-Beveland,https://www.geonames.org/2743805
+Walcheren,https://www.geonames.org/2745077
+Voorne,https://www.geonames.org/2745307
+Manchester,https://www.geonames.org/5089178
+Grande Terre,https://www.geonames.org/3724377
+Mainland,https://www.geonames.org/6064423
+Sunderland,https://www.geonames.org/2636531
+Gotland,https://www.geonames.org/2711508
+Reunion,https://www.geonames.org/935316
+Key West,https://www.geonames.org/4160813
+Mount Desert Island,https://www.geonames.org/4972735
+O‘ahu,https://www.geonames.org/5851609
+Abu Dhabi,https://www.geonames.org/292969
+Chihuahua City,https://www.geonames.org/4014338
+Makkah,https://www.geonames.org/104515
+Ar Riyāḑ,https://www.geonames.org/108411
+Yucatán,https://www.geonames.org/3514211
+West Java,https://www.geonames.org/1642672
+Nuevo León,https://www.geonames.org/3522542
+Yunnan,https://www.geonames.org/1785694
+Bangkok,https://www.geonames.org/1609350
+Guangdong,https://www.geonames.org/1809935
+Jakarta,https://www.geonames.org/1642911
+Kuala Lumpur,https://www.geonames.org/1735161
+Distrito Federal,https://www.geonames.org/12070209
+Jiangsu,https://www.geonames.org/1806260
+San Salvador,https://www.geonames.org/3583361
+Sharjah,https://www.geonames.org/292672
+Seoul,https://www.geonames.org/1835848
+Shanghai,https://www.geonames.org/1796236
+Hidalgo,https://www.geonames.org/3527115
+Mexico City,https://www.geonames.org/3530597
+Al Wilāyah ash Sharqīyah,https://www.geonames.org/378377
+Bali,https://www.geonames.org/1650534
+Southern District,https://www.geonames.org/294952
+West Bank,https://www.geonames.org/285153
+Central Java,https://www.geonames.org/1642669
+Jalisco,https://www.geonames.org/4004156
+Jerash,https://www.geonames.org/248875
+Appennino,https://www.geonames.org/3182981
+Irbid,https://www.geonames.org/248946
+Jerusalem,https://www.geonames.org/293198
+Surat Thani,https://www.geonames.org/1150515
+Tibet,https://www.geonames.org/1279685
+Manila,https://www.geonames.org/1701668
+Wellington,https://www.geonames.org/2179537
+Northern District,https://www.geonames.org/294824
+Elizabeth Islands,https://www.geonames.org/4935780
+Central District,https://www.geonames.org/294904
+Havana,https://www.geonames.org/3564073
+Ajman,https://www.geonames.org/292932
+Al Jahra,https://www.geonames.org/285799
+Al Asimah,https://www.geonames.org/285788
+Beyrouth,https://www.geonames.org/276780
+Damascus,https://www.geonames.org/170654
+Haifa,https://www.geonames.org/294801
+Hanoi,https://www.geonames.org/1581130
+Cebu City,https://www.geonames.org/1717512
+Ho Chi Minh City,https://www.geonames.org/1566083
+Ma'an,https://www.geonames.org/248382
+Pinar del Río,https://www.geonames.org/3544091
+Heilongjiang,https://www.geonames.org/2036965
+Sanaa,https://www.geonames.org/71137
+Santiago de Cuba,https://www.geonames.org/3536729
+Muḩāfaz̧at Ḩaḑramawt,https://www.geonames.org/75411
+Provincia de Coclé,https://www.geonames.org/3712162
+Taitung City,https://www.geonames.org/6949678
+Guerrero,https://www.geonames.org/3527213
+Tyne and Wear,https://www.geonames.org/2635274
+Florida Keys,https://www.geonames.org/4155701
+Bay Islands,https://www.geonames.org/3608814
+Afiqim,https://www.geonames.org/295743
+Ancón,https://www.geonames.org/3714734
+Carabietta,https://www.geonames.org/8533646
+Collina d'Oro,https://www.geonames.org/7287680
+Croton-on-Hudson,https://www.geonames.org/5114221
+Merion,https://www.geonames.org/8479265
+Mézières,https://www.geonames.org/2659666
+Nespeky,https://www.geonames.org/11920679
+Wangenried,https://www.geonames.org/8533539
+Ar Rumaythīyah,https://www.geonames.org/285726
+Zollikerberg,https://www.geonames.org/6293731
+Wangen-Brüttisellen,https://www.geonames.org/7287541
+Gockhausen,https://www.geonames.org/6295518
+Dulliken,https://www.geonames.org/7285679
+Urdorf,https://www.geonames.org/2659332
+Niederglatt,https://www.geonames.org/6295528
+Taliesin West,https://www.geonames.org/5316790
+Verscio,https://www.geonames.org/2658152
+Cavigliano,https://www.geonames.org/7285448
+Schwerzenbach,https://www.geonames.org/7287128
+Rickenbach,https://www.geonames.org/8533592
+Hedingen,https://www.geonames.org/7286045
+Uzwil,https://www.geonames.org/2658209
+Starrkirch-Wil,https://www.geonames.org/7287221
+Lommiswil,https://www.geonames.org/7286369
+Niederteufen,https://www.geonames.org/7669800
+Zimmerberg,https://www.geonames.org/11856336
+Limmattal,https://www.geonames.org/11856327
+Camorino,https://www.geonames.org/2661280
+Chateau-d'Oex,https://www.geonames.org/2661205
+Geroldswil,https://www.geonames.org/7285906
+Langendorf,https://www.geonames.org/2881107
+Sant’Abbondio,https://www.geonames.org/11113542
+Schmerikon,https://www.geonames.org/7287098
+Aeugst am Albis,https://www.geonames.org/7285035
+Bellach,https://www.geonames.org/7285185
+Kappel,https://www.geonames.org/6691412
+Recherswil,https://www.geonames.org/7286865
+Unteriberg,https://www.geonames.org/2658250
+Forch (südl. Teil),https://www.geonames.org/6293342
+Gisikon,https://www.geonames.org/7285920
+Widen,https://www.geonames.org/4827190
+Zollikerberg,https://www.geonames.org/6293731
+Gretzenbach,https://www.geonames.org/7285981
+Hausen,https://www.geonames.org/3230439
+Niederhasli,https://www.geonames.org/6291558
+Ponte Capriasca,https://www.geonames.org/7286812
+Stein am Rhein,https://www.geonames.org/7287228
+Studen,https://www.geonames.org/7669954
+Weesen,https://www.geonames.org/2813419
+Brüglingen,https://www.geonames.org/11048412
+Goldach,https://www.geonames.org/7285934
+Illnau-Effretikon,https://www.geonames.org/11611720
+Ittigen,https://www.geonames.org/6424338
+Langnau am Albis,https://www.geonames.org/7286260
+Lufingen,https://www.geonames.org/7286382
+Murgenthal,https://www.geonames.org/2659533
+Neuendorf,https://www.geonames.org/2865784
+Rickenbach,https://www.geonames.org/8533592
+Rohr,https://www.geonames.org/2845750
+Rüdtligen-Alchenflüh,https://www.geonames.org/7286972
+Steinach,https://www.geonames.org/7287226
+Arth-Goldau,https://www.geonames.org/2661707
+Berg am Irchel,https://www.geonames.org/7285202
+Bergdietikon,https://www.geonames.org/7285203
+Carabbia,https://www.geonames.org/8469268
+Ebmatingen,https://www.geonames.org/6295530
+Giubiasco,https://www.geonames.org/7285922
+Lengnau,https://www.geonames.org/2659957
+Mitlödi,https://www.geonames.org/8505013
+Riedern,https://www.geonames.org/8533678
+Rothenbürg,https://www.geonames.org/2844064
+Steinmaur,https://www.geonames.org/6295515
+Wettswil am Albis,https://www.geonames.org/7287563
+Aefligen,https://www.geonames.org/7285025
+Berlingen,https://www.geonames.org/2802147
+Breganzona,https://www.geonames.org/6559635
+Carona,https://www.geonames.org/4012866
+Diepoldsau,https://www.geonames.org/2661021
+Ebnat-Kappel,https://www.geonames.org/2660951
+Erlinsbach,https://www.geonames.org/2659467
+Limmattal,https://www.geonames.org/11856327
+Lohn-Ammannsegg,https://www.geonames.org/7286363
+Niederdorf,https://www.geonames.org/6946275
+Oberrohrdorf,https://www.geonames.org/7286710
+Schänis,https://www.geonames.org/2658754
+Sorengo,https://www.geonames.org/2658549
+Wettswil am Albis,https://www.geonames.org/7287563
+Wittenbach,https://www.geonames.org/7287596
+Würzenbach,https://www.geonames.org/11789702
+Aesch,https://www.geonames.org/6295535
+Albiș,https://www.geonames.org/686528
+Blenio,https://www.geonames.org/7285270
+Boningen,https://www.geonames.org/6691373
+Boswil,https://www.geonames.org/7285301
+Bronschhofen,https://www.geonames.org/7285345
+Büttikon,https://www.geonames.org/8533234
+Fischbach,https://www.geonames.org/6693288
+Fürstenau,https://www.geonames.org/2923658
+Goldbach,https://www.geonames.org/2919436
+Hermikon,https://www.geonames.org/6295538
+Honau,https://www.geonames.org/7286108
+Hütten,https://www.geonames.org/6292832
+Kradolf-Schönenberg,https://www.geonames.org/7286219
+Madulain,https://www.geonames.org/2659801
+Mergoscia,https://www.geonames.org/7286489
+Mörschwil,https://www.geonames.org/2659579
+Moûtiers,https://www.geonames.org/2991325
+Nonan,https://www.geonames.org/7322794
+Nussbaumen,https://www.geonames.org/2659424
+Ehrendingen,https://www.geonames.org/2658256
+Orselina,https://www.geonames.org/7286754
+Porza,https://www.geonames.org/7286823
+South Norwalk,https://www.geonames.org/4843313
+Torricella-Taverne,https://www.geonames.org/7287320
+Thal,https://www.geonames.org/1353419
+Trübbach,https://www.geonames.org/2658304
+Warth,https://www.geonames.org/2761870
+Wichtrach,https://www.geonames.org/2659447
+Winkel,https://www.geonames.org/3320495
+Wohlenschwil,https://www.geonames.org/7287602
+Al Ahmadi,https://www.geonames.org/285839
+Al Bahah,https://www.geonames.org/109954
+Aldrans,https://www.geonames.org/2782813
+Alpbach,https://www.geonames.org/2782758
+Wang Chao,https://www.geonames.org/7510633
+Attelwil,https://www.geonames.org/7285111
+Azmoos,https://www.geonames.org/7669449

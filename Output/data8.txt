@@ -1,0 +1,987 @@
+Markgröningen,https://www.geonames.org/2873369
+Saint-Martin-d’Ardèche,https://www.geonames.org/2978427
+Maulbronn,https://www.geonames.org/2872777
+Garmisch-Partenkirchen,https://www.geonames.org/2922530
+Kleve,https://www.geonames.org/2887835
+Meersburg,https://www.geonames.org/6558182
+Saint-Pierre-de-Bœuf,https://www.geonames.org/2977535
+Saint-Rambert-l'Île-Barbe,https://www.geonames.org/2977249
+Cologne,https://www.geonames.org/2886242
+Königswinter,https://www.geonames.org/2885734
+Sathonay-Village,https://www.geonames.org/2975894
+Krefeld,https://www.geonames.org/2884509
+Germering,https://www.geonames.org/2921039
+Kreis Minden-Lübbecke,https://www.geonames.org/2871034
+Mühlhausen,https://www.geonames.org/2867996
+Mühringen,https://www.geonames.org/2867875
+Krombach,https://www.geonames.org/2883792
+Murr,https://www.geonames.org/2867435
+Musberg,https://www.geonames.org/2867414
+Lüneburg,https://www.geonames.org/2875115
+Tassin-la-Demi-Lune,https://www.geonames.org/2973317
+Mardorf,https://www.geonames.org/2873738
+Neuweiler,https://www.geonames.org/2863875
+Tournon,https://www.geonames.org/2972213
+Nürtingen,https://www.geonames.org/2861632
+Val d'Isère,https://www.geonames.org/2971074
+Leverkusen,https://www.geonames.org/2878234
+Vallon-Pont-d’Arc,https://www.geonames.org/2970885
+Gräfelfing,https://www.geonames.org/2918368
+Grainau,https://www.geonames.org/6556240
+Lindlar,https://www.geonames.org/2877142
+Oberharmersbach,https://www.geonames.org/6555792
+Veyrier-du-Lac,https://www.geonames.org/2969502
+Vichy,https://www.geonames.org/3380082
+Offenburg,https://www.geonames.org/2857798
+Ohlsbach,https://www.geonames.org/6555794
+Yvoire,https://www.geonames.org/6443086
+Öhringen,https://www.geonames.org/2857565
+Marl,https://www.geonames.org/2873263
+Osterburken,https://www.geonames.org/2856637
+Ostfildern,https://www.geonames.org/3336892
+Pfäffingen,https://www.geonames.org/2854301
+Pforzheim,https://www.geonames.org/2853969
+Pfullendorf,https://www.geonames.org/2853930
+Plochingen,https://www.geonames.org/6557945
+Radolfzell,https://www.geonames.org/2850954
+Möhnesee,https://www.geonames.org/3207377
+Rastatt,https://www.geonames.org/2850257
+Mönchengladbach,https://www.geonames.org/2869894
+Monschau,https://www.geonames.org/2869756
+Ravensburg,https://www.geonames.org/2849802
+Reichenau,https://www.geonames.org/2659081
+Günzburg,https://www.geonames.org/2913555
+Mülheim,https://www.geonames.org/2867838
+Münster,https://www.geonames.org/2867543
+Oldenburg,https://www.geonames.org/2857458
+Reutlingen,https://www.geonames.org/2847736
+Rheinbischofsheim,https://www.geonames.org/2847659
+Rheinfelden,https://www.geonames.org/2847639
+Neheim-Hüsten,https://www.geonames.org/2866647
+Osnabrück,https://www.geonames.org/2856883
+Riedenberg,https://www.geonames.org/2767479
+Neubeckum,https://www.geonames.org/2866212
+Riedlingen,https://www.geonames.org/2847079
+Osterholz-Scharmbeck,https://www.geonames.org/2856500
+Neuss,https://www.geonames.org/2864118
+Nideggen,https://www.geonames.org/2863711
+Niederkassel,https://www.geonames.org/2863222
+Rottweil,https://www.geonames.org/2843636
+Rust,https://www.geonames.org/2766939
+Saint Blasien,https://www.geonames.org/2841643
+Sankt Georgen,https://www.geonames.org/2841625
+Sankt Märgen,https://www.geonames.org/2841521
+Schechingen,https://www.geonames.org/6555596
+Ritzebüttel,https://www.geonames.org/2846346
+Schloß Zeil,https://www.geonames.org/2838245
+Paderborn,https://www.geonames.org/2855745
+Salzgitter,https://www.geonames.org/2842150
+Schömberg,https://www.geonames.org/2837117
+Schönaich,https://www.geonames.org/2837093
+Schopfheim,https://www.geonames.org/6558144
+Schorndorf,https://www.geonames.org/2836320
+Schwäbisch Gmünd,https://www.geonames.org/2835482
+Schwäbisch Hall,https://www.geonames.org/2835481
+Radevormwald,https://www.geonames.org/2850995
+Schwetzingen,https://www.geonames.org/2834240
+Recklinghausen,https://www.geonames.org/2849647
+Schneverdingen,https://www.geonames.org/2837291
+Sehringen,https://www.geonames.org/2833469
+Hersbruck,https://www.geonames.org/2905599
+Herzogenaurach,https://www.geonames.org/2905457
+Remscheid,https://www.geonames.org/2848273
+Sigmaringen,https://www.geonames.org/2832232
+Sigmaringendorf,https://www.geonames.org/6556091
+Rheidt,https://www.geonames.org/2847675
+Sindelfingen,https://www.geonames.org/2831948
+Singen,https://www.geonames.org/2831924
+Singen,https://www.geonames.org/2831924
+Rheine,https://www.geonames.org/2847645
+Rietberg,https://www.geonames.org/2846843
+Staufen,https://www.geonames.org/2658498
+Steinhude,https://www.geonames.org/2827932
+Hof,https://www.geonames.org/2902768
+Stuttgart,https://www.geonames.org/2825297
+Stuttgart,https://www.geonames.org/2825297
+Sulzgries,https://www.geonames.org/2824732
+Schieder-Schwalenberg,https://www.geonames.org/3207383
+Tiengen,https://www.geonames.org/2822259
+Tiengen,https://www.geonames.org/2822259
+Südlohne,https://www.geonames.org/2824996
+Tübingen,https://www.geonames.org/2820860
+Türkheim,https://www.geonames.org/2820752
+Tuttlingen,https://www.geonames.org/2820693
+Überlingen,https://www.geonames.org/2820577
+Ulm,https://www.geonames.org/2820256
+Unterhausen,https://www.geonames.org/2762883
+Schwerte,https://www.geonames.org/2834265
+Siegen,https://www.geonames.org/2832495
+Vaihingen,https://www.geonames.org/11807539
+Soest,https://www.geonames.org/2831708
+Villingen-Schwenningen,https://www.geonames.org/2817220
+Solingen,https://www.geonames.org/2831580
+Waiblingen,https://www.geonames.org/2815330
+Steinbüchel,https://www.geonames.org/2828342
+Steinheim,https://www.geonames.org/2960060
+Warmbronn,https://www.geonames.org/2814088
+Stolberg,https://www.geonames.org/2826594
+Weesen,https://www.geonames.org/2813419
+Weil am Rhein,https://www.geonames.org/2812636
+Weilheim,https://www.geonames.org/2812515
+Weinsberg,https://www.geonames.org/2812158
+Ingolstadt,https://www.geonames.org/2895992
+Tecklenburg,https://www.geonames.org/2823728
+Wildberg,https://www.geonames.org/2657991
+Üdingen,https://www.geonames.org/2820489
+Wittenbach,https://www.geonames.org/7287596
+Wölchingen,https://www.geonames.org/2806972
+Unna,https://www.geonames.org/2820087
+Wilhelmshaven,https://www.geonames.org/2808720
+Wüstenrot,https://www.geonames.org/2805497
+Zähringen,https://www.geonames.org/2805299
+Zell,https://www.geonames.org/2804882
+Velbert,https://www.geonames.org/2817724
+Wolfenbüttel,https://www.geonames.org/2806914
+Wolfsburg,https://www.geonames.org/2806654
+Zwiefalten,https://www.geonames.org/6555934
+Karlburg,https://www.geonames.org/2892933
+Kempten (Allgäu),https://www.geonames.org/2891621
+Warendorf,https://www.geonames.org/2814127
+Warstein,https://www.geonames.org/2814005
+Weingarten,https://www.geonames.org/2812193
+Wesel,https://www.geonames.org/2810678
+Willich,https://www.geonames.org/2808559
+Wischlingen,https://www.geonames.org/2807477
+Wuppertal,https://www.geonames.org/2805753
+Xanten,https://www.geonames.org/2805385
+Königsbrunn,https://www.geonames.org/2885908
+Landkreis Garmisch-Partenkirchen,https://www.geonames.org/2922531
+Landkreis Starnberg,https://www.geonames.org/2829456
+Landsberg am Lech,https://www.geonames.org/2881509
+Landshut,https://www.geonames.org/2881485
+Langenloh,https://www.geonames.org/2880980
+Laufen,https://www.geonames.org/2880129
+Lindau,https://www.geonames.org/2877550
+Lutzenberg,https://www.geonames.org/7286406
+Manholding,https://www.geonames.org/2873921
+Memmingen,https://www.geonames.org/2871992
+Mittenwald,https://www.geonames.org/2870482
+Munich,https://www.geonames.org/2867714
+Murnau,https://www.geonames.org/2867446
+Nairitz,https://www.geonames.org/2867134
+Neuburg an der Donau,https://www.geonames.org/2866070
+Neu-Ulm,https://www.geonames.org/2863941
+Nonnenhorn,https://www.geonames.org/6557197
+Nuremberg,https://www.geonames.org/2861650
+Upper Bavaria,https://www.geonames.org/2861322
+Oberstaufen,https://www.geonames.org/2858966
+Oberstdorf,https://www.geonames.org/2858964
+Passau,https://www.geonames.org/2855328
+Perlach,https://www.geonames.org/2854857
+Pöcking,https://www.geonames.org/2853066
+Pottenstein,https://www.geonames.org/2852440
+Puchheim,https://www.geonames.org/2851782
+Pullach,https://www.geonames.org/2851740
+Regensburg,https://www.geonames.org/2849483
+Reutinen,https://www.geonames.org/2847741
+Rosenheim,https://www.geonames.org/2844988
+Rothenfels,https://www.geonames.org/2844042
+Rottach,https://www.geonames.org/2843779
+Rottach-Egern,https://www.geonames.org/6556280
+Sankt Christoph,https://www.geonames.org/2841642
+Schäftlarn,https://www.geonames.org/6556325
+Scheidegg,https://www.geonames.org/2766051
+Schliersee,https://www.geonames.org/2838503
+Schwabach,https://www.geonames.org/2835537
+Seeshaupt,https://www.geonames.org/6556444
+Senden,https://www.geonames.org/2833080
+Steingaden,https://www.geonames.org/2828090
+Straßlach-Dingharting,https://www.geonames.org/3205570
+Straubing,https://www.geonames.org/2826099
+Traunstein,https://www.geonames.org/7873090
+Veitshöchheim,https://www.geonames.org/2817733
+Weiden,https://www.geonames.org/3322531
+Weihenstephan,https://www.geonames.org/2812833
+Wurzburg,https://www.geonames.org/2805615
+Zeil,https://www.geonames.org/2760679
+Alachua,https://www.geonames.org/4145719
+Bronx,https://www.geonames.org/5909434
+Ardmore,https://www.geonames.org/6232025
+Washington,https://www.geonames.org/4140963
+Key West,https://www.geonames.org/4160813
+Richmond,https://www.geonames.org/5387428
+Roanoke,https://www.geonames.org/4925483
+Athens,https://www.geonames.org/264371
+Alma,https://www.geonames.org/5884083
+Charlottesville,https://www.geonames.org/4752031
+Albany,https://www.geonames.org/5106834
+Amenia,https://www.geonames.org/4883258
+Andrews,https://www.geonames.org/5693213
+Abington,https://www.geonames.org/4928662
+Akron,https://www.geonames.org/5145476
+Ann Arbor,https://www.geonames.org/4984247
+Bar Harbor,https://www.geonames.org/4347849
+Alberta,https://www.geonames.org/5883102
+Adams,https://www.geonames.org/4928733
+Brooklyn,https://www.geonames.org/5110302
+Arlington,https://www.geonames.org/4744709
+Baltimore,https://www.geonames.org/4347778
+San Sebastián,https://www.geonames.org/4568177
+Allegheny,https://www.geonames.org/4452386
+Albany,https://www.geonames.org/5106834
+Manhattan,https://www.geonames.org/5125771
+Adair,https://www.geonames.org/6214548
+Anne Arundel,https://www.geonames.org/4347283
+Honolulu,https://www.geonames.org/5856195
+Fredericksburg,https://www.geonames.org/4760059
+Aurora,https://www.geonames.org/4883817
+Auburn,https://www.geonames.org/5785965
+Austin,https://www.geonames.org/4671654
+Chariton,https://www.geonames.org/5054454
+Queens,https://www.geonames.org/5133273
+Alameda,https://www.geonames.org/5322737
+Harlem,https://www.geonames.org/5120034
+San Juan,https://www.geonames.org/4568127
+Albuquerque,https://www.geonames.org/5454711
+Atlanta,https://www.geonames.org/4180439
+Williamsburg,https://www.geonames.org/4793846
+Winchester,https://www.geonames.org/11495692
+Annapolis,https://www.geonames.org/4347242
+Cuba,https://www.geonames.org/3562993
+Bad Axe,https://www.geonames.org/4984692
+Asheville,https://www.geonames.org/4453066
+Aurora,https://www.geonames.org/4883817
+Andover,https://www.geonames.org/5016374
+Ansonia,https://www.geonames.org/5281551
+Denver,https://www.geonames.org/5419384
+Armonk,https://www.geonames.org/5107346
+Flushing,https://www.geonames.org/5154730
+Atlantic,https://www.geonames.org/5888067
+Champaign,https://www.geonames.org/4887158
+Aspen,https://www.geonames.org/5412230
+Boston,https://www.geonames.org/4930956
+Barrington,https://www.geonames.org/2176719
+British Columbia,https://www.geonames.org/5909050
+New Castle,https://www.geonames.org/4079449
+Barrington Hills,https://www.geonames.org/4884121
+Columbus,https://www.geonames.org/4509177
+Atlantic City,https://www.geonames.org/4500546
+Barnstable,https://www.geonames.org/4929771
+Belknap,https://www.geonames.org/4254338
+Amherst,https://www.geonames.org/5884468
+Bedford,https://www.geonames.org/2656046
+Binghamton,https://www.geonames.org/5109177
+Bloomington,https://www.geonames.org/4254679
+Grinnell,https://www.geonames.org/5445527
+Hampton,https://www.geonames.org/4762894
+Downers Grove,https://www.geonames.org/4890119
+Hoboken,https://www.geonames.org/5099133
+Iowa City,https://www.geonames.org/4862034
+Lubbock,https://www.geonames.org/5525577
+Athabasca,https://www.geonames.org/11807291
+Comorn,https://www.geonames.org/4753797
+Milwaukee,https://www.geonames.org/5263045
+Bergen,https://www.geonames.org/3161732
+Evansville,https://www.geonames.org/4257227
+Indianola,https://www.geonames.org/4430981
+Berkeley,https://www.geonames.org/5327684
+Brownsville,https://www.geonames.org/4676740
+Bartholomew,https://www.geonames.org/5894391
+Berkshire,https://www.geonames.org/2655856
+Bennington,https://www.geonames.org/4530341
+Elkhart,https://www.geonames.org/4919987
+Arlington,https://www.geonames.org/4744709
+Saint-Louis,https://www.geonames.org/935223
+Dayton,https://www.geonames.org/4509884
+Baton Rouge,https://www.geonames.org/4315588
+Alabama,https://www.geonames.org/4829764
+Lawrence,https://www.geonames.org/2188475
+Berkeley,https://www.geonames.org/5327684
+Birmingham,https://www.geonames.org/2655603
+Columbus,https://www.geonames.org/4509177
+Dallas,https://www.geonames.org/4684888
+Elm Grove,https://www.geonames.org/5251784
+Charles,https://www.geonames.org/3727887
+Collegeville,https://www.geonames.org/5021784
+Canada,https://www.geonames.org/6251999
+Sorento,https://www.geonames.org/4250276
+Bennington,https://www.geonames.org/4530341
+Edgartown,https://www.geonames.org/4935645
+Deerfield,https://www.geonames.org/5764085
+Pampa,https://www.geonames.org/5527953
+Kirksville,https://www.geonames.org/4242336
+Canton,https://www.geonames.org/5149222
+Newton,https://www.geonames.org/11495073
+Des Moines,https://www.geonames.org/4853828
+Utah,https://www.geonames.org/4832154
+Denton,https://www.geonames.org/4685907
+Bloomfield Hills,https://www.geonames.org/4986429
+Somonauk,https://www.geonames.org/4911802
+Chapel Hill,https://www.geonames.org/4460162
+Racine,https://www.geonames.org/5268249
+Bristol,https://www.geonames.org/2654675
+San-Pédro,https://www.geonames.org/2282006
+Manhattan,https://www.geonames.org/5125771
+Lahore,https://www.geonames.org/1172451
+Altadena,https://www.geonames.org/5323525
+Maplewood,https://www.geonames.org/5100854
+Buffalo,https://www.geonames.org/5110629
+New Glarus,https://www.geonames.org/5264412
+Bloomfield,https://www.geonames.org/5903997
+Millburn,https://www.geonames.org/5127009
+Cleveland,https://www.geonames.org/5150529
+Montclair,https://www.geonames.org/4773677
+Ponca City,https://www.geonames.org/4548267
+Newark,https://www.geonames.org/5101798
+Bronxville,https://www.geonames.org/5110269
+Fish Creek,https://www.geonames.org/5253132
+Dearborn,https://www.geonames.org/4990510
+Berkley,https://www.geonames.org/5413519
+Topeka,https://www.geonames.org/4280539
+Fairfield,https://www.geonames.org/5347335
+Manitoba,https://www.geonames.org/6065171
+Overland Park,https://www.geonames.org/4276873
+Detroit,https://www.geonames.org/4990729
+Cumberland,https://www.geonames.org/11494968
+Fort Worth,https://www.geonames.org/4691930
+Nutley,https://www.geonames.org/2641142
+Bushkill,https://www.geonames.org/5182506
+New Brunswick,https://www.geonames.org/5101717
+Huntington,https://www.geonames.org/5978701
+Texas,https://www.geonames.org/4736286
+Tulsa,https://www.geonames.org/4553433
+Forest Lake,https://www.geonames.org/5955543
+Lafayette,https://www.geonames.org/4922462
+Buena Park,https://www.geonames.org/5331575
+Cincinnati,https://www.geonames.org/4508722
+Gainesville,https://www.geonames.org/4156404
+Grafton,https://www.geonames.org/5254739
+Berrien,https://www.geonames.org/3033236
+Rockford,https://www.geonames.org/4907959
+Lockport,https://www.geonames.org/4331530
+Ontario,https://www.geonames.org/5379439
+Normal,https://www.geonames.org/4903780
+Chicago,https://www.geonames.org/4887398
+Colonial Beach,https://www.geonames.org/4753654
+Bedford,https://www.geonames.org/2656046
+Essex,https://www.geonames.org/11609034
+Bond,https://www.geonames.org/5905401
+Red Wing,https://www.geonames.org/5436082
+Wind Point,https://www.geonames.org/5279291
+Saint-Paul,https://www.geonames.org/935221
+Hartford,https://www.geonames.org/4835797
+Chappaqua,https://www.geonames.org/5112259
+Colorado Springs,https://www.geonames.org/5417598
+Roselle,https://www.geonames.org/4908173
+Madison,https://www.geonames.org/5261457
+Schenectady,https://www.geonames.org/5136454
+Boulder,https://www.geonames.org/5574991
+Bernalillo,https://www.geonames.org/5457198
+Brookline,https://www.geonames.org/4931482
+Branford,https://www.geonames.org/5283054
+Belmont,https://www.geonames.org/5327455
+Mansfield,https://www.geonames.org/11495359
+Hackettstown,https://www.geonames.org/5098745
+Menasha,https://www.geonames.org/5262596
+Quebec,https://www.geonames.org/6115047
+New Orleans,https://www.geonames.org/4335045
+Urbana,https://www.geonames.org/4914570
+Englewood,https://www.geonames.org/5421250
+Gettysburg,https://www.geonames.org/5155687
+Black Mountain,https://www.geonames.org/5457800
+Saskatchewan,https://www.geonames.org/6141242
+Bourne,https://www.geonames.org/2655099
+Bridgeport,https://www.geonames.org/5282804
+Birmingham,https://www.geonames.org/2655603
+De Witt,https://www.geonames.org/4853551
+Niagara Falls,https://www.geonames.org/5128723
+Costa Mesa,https://www.geonames.org/5339840
+Fayetteville,https://www.geonames.org/4466033
+Kent,https://www.geonames.org/11609038
+Ithaca,https://www.geonames.org/5122432
+New Harmony,https://www.geonames.org/5543883
+Dukes,https://www.geonames.org/4991303
+San Juan,https://www.geonames.org/4568127
+Neosho,https://www.geonames.org/5264316
+La Porte,https://www.geonames.org/3722698
+San Sebastián,https://www.geonames.org/4568177
+Wheaton,https://www.geonames.org/4373349
+Grosse Pointe,https://www.geonames.org/4994862
+Highland Park,https://www.geonames.org/4067250
+Yellow Springs,https://www.geonames.org/4374293
+Sarasota,https://www.geonames.org/4172131
+Grosse Pointe Farms,https://www.geonames.org/4994864
+Springfield,https://www.geonames.org/4250542
+Essex,https://www.geonames.org/11609034
+Broome,https://www.geonames.org/7839347
+Madison,https://www.geonames.org/5261457
+Princeton,https://www.geonames.org/5102922
+Raritan,https://www.geonames.org/4907146
+Monticello,https://www.geonames.org/2992470
+Blair,https://www.geonames.org/5903512
+Litchfield,https://www.geonames.org/11495527
+Glen Cove,https://www.geonames.org/5118626
+Michigan City,https://www.geonames.org/4435831
+Franklin,https://www.geonames.org/4623560
+Evanston,https://www.geonames.org/4891382
+Honolulu,https://www.geonames.org/5856195
+Kings Mills,https://www.geonames.org/4515935
+Arizona,https://www.geonames.org/5551752
+Arkansas,https://www.geonames.org/4099753
+Doylestown,https://www.geonames.org/5250873
+El Cerrito,https://www.geonames.org/3684615
+Carmel,https://www.geonames.org/5334320
+Peetz,https://www.geonames.org/5580798
+Middlesex,https://www.geonames.org/6073255
+Philadelphia,https://www.geonames.org/4560349
+Oxford,https://www.geonames.org/2640729
+Lebanon,https://www.geonames.org/272103
+Champaign,https://www.geonames.org/4887158
+Louisville,https://www.geonames.org/4299276
+Saint John,https://www.geonames.org/2567539
+Oak Park,https://www.geonames.org/4904381
+Libertyville,https://www.geonames.org/4899739
+Hampden,https://www.geonames.org/11495221
+Cheshire,https://www.geonames.org/2653234
+Garden Grove,https://www.geonames.org/5351515
+Saint-Quentin,https://www.geonames.org/2977295
+Prince George,https://www.geonames.org/4780370
+Butler,https://www.geonames.org/5912508
+Beverly Hills,https://www.geonames.org/5328041
+Glencoe,https://www.geonames.org/1001736
+New Haven,https://www.geonames.org/4839366
+Mercer,https://www.geonames.org/6072169
+Terre Haute,https://www.geonames.org/5057511
+Media,https://www.geonames.org/4901830
+Middlesex,https://www.geonames.org/6073255
+Glenview,https://www.geonames.org/4893886
+Boulder,https://www.geonames.org/5574991
+Forest Hill,https://www.geonames.org/2166340
+Richland Center,https://www.geonames.org/4925362
+Coconino,https://www.geonames.org/5290321
+Bucks,https://www.geonames.org/4885902
+Hewlett Harbor,https://www.geonames.org/5120601
+Cook County,https://www.geonames.org/2192134
+LaMoille,https://www.geonames.org/4863831
+San Francisco,https://www.geonames.org/3621911
+New Brunswick,https://www.geonames.org/5101717
+Rockingham,https://www.geonames.org/2062338
+Cabell,https://www.geonames.org/11065300
+Bexar,https://www.geonames.org/4049305
+Mill Run,https://www.geonames.org/4773211
+Camden,https://www.geonames.org/4501018
+Cayuga,https://www.geonames.org/5918700
+Spring Green,https://www.geonames.org/5274183
+Indianapolis,https://www.geonames.org/4259418
+Damariscotta,https://www.geonames.org/4962066
+Saginaw,https://www.geonames.org/5007989
+Morgantown,https://www.geonames.org/4436597
+Cambridge,https://www.geonames.org/2192708
+Newtown Square,https://www.geonames.org/4363756
+Oakland,https://www.geonames.org/5378538
+Douglas,https://www.geonames.org/3042237
+Saint Joseph,https://www.geonames.org/3575624
+Hancock,https://www.geonames.org/5970066
+Houston,https://www.geonames.org/4699066
+Passaic,https://www.geonames.org/5102443
+Laconia,https://www.geonames.org/4260019
+Paterson,https://www.geonames.org/5102466
+Newark,https://www.geonames.org/5101798
+Bridgewater,https://www.geonames.org/2075806
+Lemoore,https://www.geonames.org/5365918
+Dane,https://www.geonames.org/3202200
+De Kalb,https://www.geonames.org/4685467
+Laguna Beach,https://www.geonames.org/4161141
+Stowe,https://www.geonames.org/5214449
+Hansen,https://www.geonames.org/5970321
+Clark,https://www.geonames.org/5821313
+North Canton,https://www.geonames.org/5164706
+Locust Valley,https://www.geonames.org/3578113
+Worthington,https://www.geonames.org/4314044
+Middlesex,https://www.geonames.org/6073255
+Edmonton,https://www.geonames.org/5946768
+Lower Merion Township,https://www.geonames.org/4559355
+Clinton,https://www.geonames.org/4422133
+Door,https://www.geonames.org/5250768
+Rochester,https://www.geonames.org/5043473
+Kenilworth,https://www.geonames.org/5990811
+Buncombe,https://www.geonames.org/4234796
+Tallahassee,https://www.geonames.org/4174715
+Fairhaven,https://www.geonames.org/5563453
+Chilliwack,https://www.geonames.org/5921356
+Hyattsville,https://www.geonames.org/4358821
+Center Lovell,https://www.geonames.org/4960569
+Chestnut Hill,https://www.geonames.org/4613130
+Norfolk,https://www.geonames.org/4776222
+San Antonio,https://www.geonames.org/4726206
+Somerset,https://www.geonames.org/11495126
+Minneapolis,https://www.geonames.org/5037649
+Knox,https://www.geonames.org/7839797
+Puerto Rico,https://www.geonames.org/4566967
+Cambridge,https://www.geonames.org/2192708
+Hartford,https://www.geonames.org/4835797
+Lincoln,https://www.geonames.org/5072006
+Port Tobacco,https://www.geonames.org/4365952
+Plymouth,https://www.geonames.org/2640194
+Newport Beach,https://www.geonames.org/5376890
+Warren,https://www.geonames.org/5014051
+Cuyahoga,https://www.geonames.org/5151606
+Concord,https://www.geonames.org/5084868
+Mill Valley,https://www.geonames.org/5373121
+Morton Grove,https://www.geonames.org/4902763
+Hillsborough,https://www.geonames.org/3580215
+Portland,https://www.geonames.org/5746545
+Orange,https://www.geonames.org/2989460
+Winnipeg,https://www.geonames.org/6183235
+Levittown,https://www.geonames.org/5124276
+Fairfield,https://www.geonames.org/5347335
+Stratford Hall,https://www.geonames.org/4224879
+Sweet Briar,https://www.geonames.org/5692482
+Oak Park,https://www.geonames.org/4904381
+Goodhue,https://www.geonames.org/5028230
+Miami,https://www.geonames.org/4164138
+Windsor,https://www.geonames.org/6182962
+Clarke,https://www.geonames.org/5923163
+Dutchess,https://www.geonames.org/5115580
+Toledo,https://www.geonames.org/2510409
+Little Rock,https://www.geonames.org/4119403
+Jefferson,https://www.geonames.org/5986100
+Suffolk,https://www.geonames.org/11609019
+Mount Vernon,https://www.geonames.org/5127835
+Green,https://www.geonames.org/5965935
+Rouses Point,https://www.geonames.org/5134565
+East Baton Rouge,https://www.geonames.org/4323288
+Charlottesville,https://www.geonames.org/4752031
+Hennepin,https://www.geonames.org/4538560
+Delaware,https://www.geonames.org/4142224
+Windsor,https://www.geonames.org/6182962
+Los Altos,https://www.geonames.org/5368335
+River Forest,https://www.geonames.org/4907637
+Johnson,https://www.geonames.org/5237538
+Riverside,https://www.geonames.org/5387877
+Santa Ana,https://www.geonames.org/3583334
+Lancaster,https://www.geonames.org/5364940
+Elkhart,https://www.geonames.org/4919987
+Lake Louise,https://www.geonames.org/6048482
+Goleta,https://www.geonames.org/5352963
+Middletown,https://www.geonames.org/4518264
+León,https://www.geonames.org/3618030
+Troy,https://www.geonames.org/3488184
+Oxford,https://www.geonames.org/2640729
+Poughkeepsie,https://www.geonames.org/5132143
+Springfield,https://www.geonames.org/4250542
+Springfield Center,https://www.geonames.org/5139285
+Erie,https://www.geonames.org/5188843
+Claremont,https://www.geonames.org/11495031
+Jasper,https://www.geonames.org/5985919
+Worcester,https://www.geonames.org/2633563
+Johnson,https://www.geonames.org/5237538
+New Rochelle,https://www.geonames.org/5128549
+Wayzata,https://www.geonames.org/5052132
+Franconia,https://www.geonames.org/4759968
+Greenwich,https://www.geonames.org/5966679
+North Salem,https://www.geonames.org/4262309
+Kay,https://www.geonames.org/551654
+Montgomery,https://www.geonames.org/4076784
+Chandler,https://www.geonames.org/5289282
+Santa Venetia,https://www.geonames.org/5393384
+Sausalito,https://www.geonames.org/5393611
+Gratiot,https://www.geonames.org/5254925
+Ojai,https://www.geonames.org/5378880
+Vineland,https://www.geonames.org/6174406
+New Britain,https://www.geonames.org/4839292
+Maricopa,https://www.geonames.org/5303752
+Syracuse,https://www.geonames.org/5140405
+Covina,https://www.geonames.org/5340175
+Franklin,https://www.geonames.org/4623560
+Knoxville,https://www.geonames.org/4634946
+Somerset,https://www.geonames.org/11495126
+Cameron,https://www.geonames.org/5913765
+Miami-Dade County,https://www.geonames.org/4164238
+Denver,https://www.geonames.org/5419384
+Pontiac,https://www.geonames.org/5006166
+Lucas,https://www.geonames.org/6061751
+Monroe,https://www.geonames.org/6076377
+Contra Costa,https://www.geonames.org/5339268
+Palo Alto,https://www.geonames.org/5380748
+Wisconsin,https://www.geonames.org/9732915
+Wilmette,https://www.geonames.org/4916732
+Tampa,https://www.geonames.org/4174757
+Kanye,https://www.geonames.org/933685
+Winnetka,https://www.geonames.org/4916891
+Framingham,https://www.geonames.org/4937230
+Port Chester,https://www.geonames.org/5132002
+Pittsburgh,https://www.geonames.org/5206379
+Hinds,https://www.geonames.org/6216990
+Hanover,https://www.geonames.org/3490145
+Greene,https://www.geonames.org/4965929
+Douglas,https://www.geonames.org/3042237
+Lake County,https://www.geonames.org/2188539
+King,https://www.geonames.org/9645458
+New Kensington,https://www.geonames.org/5203211
+Hamilton,https://www.geonames.org/2190324
+Raleigh,https://www.geonames.org/4487042
+Huron,https://www.geonames.org/5978827
+Henry,https://www.geonames.org/5228415
+Stroudsburg,https://www.geonames.org/5214543
+Washoe,https://www.geonames.org/5843902
+Norton,https://www.geonames.org/884141
+Pima,https://www.geonames.org/5308867
+South Pomfret,https://www.geonames.org/5241319
+San José,https://www.geonames.org/3621849
+Huntington,https://www.geonames.org/5978701
+Huntington,https://www.geonames.org/5978701
+Milford,https://www.geonames.org/5543146
+Idaho,https://www.geonames.org/5596512
+Fairfax,https://www.geonames.org/5236007
+Fulton,https://www.geonames.org/4387496
+Jefferson,https://www.geonames.org/5986100
+Leelanau,https://www.geonames.org/4999022
+Monterey,https://www.geonames.org/5374361
+Milwaukee,https://www.geonames.org/5263045
+Fredericksburg,https://www.geonames.org/4760059
+New Haven,https://www.geonames.org/4839366
+Stanford,https://www.geonames.org/5398563
+Montecito,https://www.geonames.org/5374340
+McLean,https://www.geonames.org/4772354
+La Porte,https://www.geonames.org/3722698
+Springfield,https://www.geonames.org/4250542
+El Paso,https://www.geonames.org/5520993
+Orange,https://www.geonames.org/2989460
+Polk,https://www.geonames.org/5075601
+Republic,https://www.geonames.org/4560671
+Sarasota,https://www.geonames.org/4172131
+Riley,https://www.geonames.org/6122329
+Windsor,https://www.geonames.org/6182962
+Poweshiek,https://www.geonames.org/4871919
+New Canaan,https://www.geonames.org/6087452
+The Pas,https://www.geonames.org/6164499
+Monongalia,https://www.geonames.org/4815207
+Lancaster,https://www.geonames.org/5364940
+Licking,https://www.geonames.org/4395255
+Portsmouth,https://www.geonames.org/3575654
+Saskatoon,https://www.geonames.org/6141256
+Hampton,https://www.geonames.org/4762894
+Lachine,https://www.geonames.org/4998472
+Norwalk,https://www.geonames.org/4839822
+Monroe,https://www.geonames.org/6076377
+Jefferson,https://www.geonames.org/5986100
+Pine Orchard,https://www.geonames.org/6105149
+Shawnee,https://www.geonames.org/5438407
+Orléans,https://www.geonames.org/2989317
+Lexington,https://www.geonames.org/4941935
+Ramsey,https://www.geonames.org/3042192
+Lincoln,https://www.geonames.org/5072006
+Glendale,https://www.geonames.org/5295985
+New Hartford,https://www.geonames.org/5128503
+Lane,https://www.geonames.org/5229225
+New Milford,https://www.geonames.org/5164376
+Nassau,https://www.geonames.org/3571824
+New Preston,https://www.geonames.org/4839460
+New York,https://www.geonames.org/5128581
+Niagara,https://www.geonames.org/11495557
+Lone Pine,https://www.geonames.org/5367846
+Lucas,https://www.geonames.org/6061751
+Pittsfield,https://www.geonames.org/5267262
+Marion,https://www.geonames.org/5161902
+Lee,https://www.geonames.org/2644699
+Rapides,https://www.geonames.org/4338350
+Jefferson,https://www.geonames.org/5986100
+Onondaga,https://www.geonames.org/5004514
+Marlborough County,https://www.geonames.org/2187303
+Orange,https://www.geonames.org/2989460
+Racine,https://www.geonames.org/5268249
+Marblehead,https://www.geonames.org/4943097
+Otsego,https://www.geonames.org/9180474
+Richland,https://www.geonames.org/5808276
+Dallas,https://www.geonames.org/4684888
+Tulsa,https://www.geonames.org/4553433
+Redding,https://www.geonames.org/5570160
+Williamsport,https://www.geonames.org/4528434
+Lycoming,https://www.geonames.org/5125514
+Eugene,https://www.geonames.org/5725846
+Monroe,https://www.geonames.org/6076377
+Norco,https://www.geonames.org/6089088
+Harvard,https://www.geonames.org/5595231
+Santa Barbara,https://www.geonames.org/5392952
+Knott,https://www.geonames.org/5993702
+Sangamon,https://www.geonames.org/4249470
+Montgomery,https://www.geonames.org/4076784
+Warren,https://www.geonames.org/5014051
+Twickenham,https://www.geonames.org/5757801
+Oakland,https://www.geonames.org/5378538
+Southbury,https://www.geonames.org/4843362
+Denton,https://www.geonames.org/4685907
+Sauk,https://www.geonames.org/3184210
+Rowayton,https://www.geonames.org/4841759
+King George,https://www.geonames.org/4767771
+Salt Lake,https://www.geonames.org/5853646
+Northport,https://www.geonames.org/4973781
+Río Arriba,https://www.geonames.org/10952243
+Stearns,https://www.geonames.org/4309559
+Nahant,https://www.geonames.org/5767324
+Palm Springs,https://www.geonames.org/5380668
+Monroe,https://www.geonames.org/6076377
+Rensselaer,https://www.geonames.org/4405432
+Montgomery,https://www.geonames.org/4076784
+Laclède,https://www.geonames.org/6029380
+multnomah,https://www.geonames.org/5742119
+Taos,https://www.geonames.org/4411228
+Taos Pueblo,https://www.geonames.org/5493788
+Roxbury,https://www.geonames.org/5269671
+Inyo,https://www.geonames.org/5359604
+Stamford,https://www.geonames.org/4843564
+Waterbury,https://www.geonames.org/4845193
+Schenectady,https://www.geonames.org/5136454
+Santa Fe,https://www.geonames.org/3836277
+Montreal,https://www.geonames.org/6077243
+Posey,https://www.geonames.org/5528588
+Tyringham,https://www.geonames.org/2635260
+Warren,https://www.geonames.org/5014051
+Kings,https://www.geonames.org/5992376
+Saginaw,https://www.geonames.org/5007989
+Marion,https://www.geonames.org/5161902
+California,https://www.geonames.org/12031520
+Portage,https://www.geonames.org/5779937
+Sandwich,https://www.geonames.org/6140562
+Lake County,https://www.geonames.org/2188539
+Philadelphia,https://www.geonames.org/4560349
+Taos,https://www.geonames.org/4411228
+Pike,https://www.geonames.org/11495584
+Richland,https://www.geonames.org/5808276
+Suffolk,https://www.geonames.org/11609019
+Winnebago,https://www.geonames.org/5279340
+Waukesha,https://www.geonames.org/5278052
+Outremont,https://www.geonames.org/6095437
+Westport,https://www.geonames.org/2179450
+Long Beach,https://www.geonames.org/5367929
+Logan City,https://www.geonames.org/7281838
+Tompkins,https://www.geonames.org/6167523
+Los Angeles,https://www.geonames.org/5368361
+Rockport,https://www.geonames.org/5168461
+Sayville,https://www.geonames.org/5136421
+Winnebago,https://www.geonames.org/5279340
+Los Angeles,https://www.geonames.org/5368361
+Ulster,https://www.geonames.org/5216553
+Salem,https://www.geonames.org/3578037
+Orange,https://www.geonames.org/2989460
+Malibu,https://www.geonames.org/5369906
+Pulaski,https://www.geonames.org/4217562
+South Lincoln,https://www.geonames.org/5241296
+Marín,https://www.geonames.org/3117409
+Reno,https://www.geonames.org/5511077
+Wilmington,https://www.geonames.org/4499379
+Westchester,https://www.geonames.org/4928109
+Orange,https://www.geonames.org/2989460
+Knox,https://www.geonames.org/7839797
+Stark,https://www.geonames.org/2056084
+Southampton,https://www.geonames.org/2637487
+Quebec,https://www.geonames.org/6115047
+Stoneham,https://www.geonames.org/5582432
+Porterville,https://www.geonames.org/6111842
+Woodbury,https://www.geonames.org/5144948
+Newton,https://www.geonames.org/11495073
+Summit,https://www.geonames.org/5812505
+Tippecanoe,https://www.geonames.org/5174000
+Montebello,https://www.geonames.org/5374322
+Twin Falls,https://www.geonames.org/6170975
+Vanderburg,https://www.geonames.org/5105805
+Vigo,https://www.geonames.org/3105976
+Gray,https://www.geonames.org/3014784
+Washtenaw,https://www.geonames.org/5014120
+Wellfleet,https://www.geonames.org/5700540
+Wayne,https://www.geonames.org/5218270
+Monterey,https://www.geonames.org/5374361
+Warren,https://www.geonames.org/5014051
+Watertown,https://www.geonames.org/5052016
+Wayland,https://www.geonames.org/6177267
+Redding,https://www.geonames.org/5570160
+Harris,https://www.geonames.org/2647432
+Richmond,https://www.geonames.org/5387428
+Redwoods,https://www.geonames.org/5570191
+Roanoke,https://www.geonames.org/4925483
+Palos Verdes Estates,https://www.geonames.org/5380883
+Wenham,https://www.geonames.org/4954801
+Seattle,https://www.geonames.org/5809844
+Pasadena,https://www.geonames.org/4717782
+Orange,https://www.geonames.org/2989460
+San Diego,https://www.geonames.org/5391811
+Colorado,https://www.geonames.org/6322738
+Pico Rivera,https://www.geonames.org/5382496
+Washington,https://www.geonames.org/4140963
+Wheeler,https://www.geonames.org/4252923
+Pitkin,https://www.geonames.org/5434771
+Connecticut,https://www.geonames.org/4831725
+Vancouver,https://www.geonames.org/6173331
+Pomona,https://www.geonames.org/5384170
+Westmoreland,https://www.geonames.org/3488081
+Rancho Palos Verdes,https://www.geonames.org/5386035
+Redondo Beach,https://www.geonames.org/5386785
+Saint-Louis,https://www.geonames.org/935223
+Stafford,https://www.geonames.org/2637142
+St Louis,https://www.geonames.org/4407066
+Riverside,https://www.geonames.org/5387877
+Wake,https://www.geonames.org/2137718
+Ottawa,https://www.geonames.org/6094817
+San Diego,https://www.geonames.org/5391811
+San Francisco,https://www.geonames.org/3621911
+Santa Monica,https://www.geonames.org/5393212
+Phoenix,https://www.geonames.org/5308655
+Westmoreland,https://www.geonames.org/3488081
+Santa Barbara,https://www.geonames.org/5392952
+Santa Clara,https://www.geonames.org/3537906
+Williamsburg,https://www.geonames.org/4793846
+Southbridge,https://www.geonames.org/2182525
+Winchester,https://www.geonames.org/11495692
+Delaware,https://www.geonames.org/4142224
+Shasta,https://www.geonames.org/495590
+South Pasadena,https://www.geonames.org/5397717
+"Washington, D.C.",https://www.geonames.org/4138106
+Lubbock,https://www.geonames.org/5525577
+Scarborough,https://www.geonames.org/2638419
+Scottsdale,https://www.geonames.org/5313457
+Tucson,https://www.geonames.org/5318313
+West Hollywood,https://www.geonames.org/4177834
+Ventura,https://www.geonames.org/5405878
+Worcester,https://www.geonames.org/2633563
+Santa Clara Pueblo,https://www.geonames.org/5490230
+Sorrento,https://www.geonames.org/3166350
+Toronto,https://www.geonames.org/6167865
+Vaughan,https://www.geonames.org/6173578
+Florida,https://www.geonames.org/4155751
+Georgia,https://www.geonames.org/4197000
+Saltair,https://www.geonames.org/6139678
+Salt Lake City,https://www.geonames.org/5780993
+Hawaii,https://www.geonames.org/5855797
+Idaho,https://www.geonames.org/5596512
+Illinois,https://www.geonames.org/4896861
+Indiana,https://www.geonames.org/5194868
+Iowa,https://www.geonames.org/4862182
+Tarrant,https://www.geonames.org/5275441
+Travis,https://www.geonames.org/4737311
+Kansas,https://www.geonames.org/4273857
+Kentucky,https://www.geonames.org/11495514
+Louisiana,https://www.geonames.org/4396425
+Maine,https://www.geonames.org/2996671
+Maryland,https://www.geonames.org/11495194
+Massachusetts,https://www.geonames.org/6254926
+Michigan,https://www.geonames.org/5001836
+Minnesota,https://www.geonames.org/5037779
+Mississippi,https://www.geonames.org/4436296
+Missouri,https://www.geonames.org/4398678
+Nevada,https://www.geonames.org/5509151
+New Hampshire,https://www.geonames.org/5090174
+New Jersey,https://www.geonames.org/3574037
+New Mexico,https://www.geonames.org/4363667
+New York,https://www.geonames.org/5128581
+Sedona,https://www.geonames.org/5313667
+North Carolina,https://www.geonames.org/4482348
+Ohío,https://www.geonames.org/3545718
+Oklahoma,https://www.geonames.org/4544379
+Oregon,https://www.geonames.org/5744337
+Pennsylvania,https://www.geonames.org/4082637
+Rhode Island,https://www.geonames.org/4722524
+Tennessee,https://www.geonames.org/4133341
+Texas,https://www.geonames.org/4736286
+Utah,https://www.geonames.org/4832154
+Vermont,https://www.geonames.org/5242283
+Virginia,https://www.geonames.org/943882
+Washington,https://www.geonames.org/4140963
+West Virginia,https://www.geonames.org/5052515
+Wisconsin,https://www.geonames.org/9732915
+United States,https://www.geonames.org/6252001
+Earth,https://www.geonames.org/6295630
+Turkey,https://www.geonames.org/298795
+Africa,https://www.geonames.org/6255146
+Asia,https://www.geonames.org/6255147
+Europe,https://www.geonames.org/6255148
+Oceania,https://www.geonames.org/6255151
+South America,https://www.geonames.org/6255150
+Aryanah,https://www.geonames.org/2473247
+Casablanca,https://www.geonames.org/2553604
+Bujumbura,https://www.geonames.org/425378
+Addis Ababa,https://www.geonames.org/344979
+Benghazi,https://www.geonames.org/88319
+Al Bayda,https://www.geonames.org/79836
+Tripoli,https://www.geonames.org/2210247
+Abidjan,https://www.geonames.org/2293538
+Abidjan,https://www.geonames.org/2293538
+Ouagadougou,https://www.geonames.org/2357048
+Douala,https://www.geonames.org/2232593
+Ifakara,https://www.geonames.org/159492
+Dakar,https://www.geonames.org/2253354
+Dar es Salaam,https://www.geonames.org/160263
+Annaba,https://www.geonames.org/2506999
+Algiers,https://www.geonames.org/2507480
+Berrouaghia,https://www.geonames.org/2504099
+Ibadan,https://www.geonames.org/2339354
+Curepipe,https://www.geonames.org/934570
+Addis Ababa,https://www.geonames.org/344979
+Algiers,https://www.geonames.org/2507480
+Nairobi,https://www.geonames.org/184745
+Al Khums,https://www.geonames.org/2219905
+Aït Ben Haddou,https://www.geonames.org/2560357
+Fes,https://www.geonames.org/2548885
+Bujumbura Mairie,https://www.geonames.org/7303939
+Dar es Salaam,https://www.geonames.org/160263
+Dakar,https://www.geonames.org/2253354
+Mauritius,https://www.geonames.org/934292
+Buea,https://www.geonames.org/2233410
+Mahuta,https://www.geonames.org/878121
+Chaouia-Ouardigha,https://www.geonames.org/2597548
+Carthage,https://www.geonames.org/4886717
+Annaba,https://www.geonames.org/2506999
+Bukavu,https://www.geonames.org/217831
+Maritime,https://www.geonames.org/2365173
+Lomé,https://www.geonames.org/2365267
+Centru,https://www.geonames.org/11789167
+Eastern Cape,https://www.geonames.org/1085593
+Anambra,https://www.geonames.org/2349961
+Doukkala-Abda,https://www.geonames.org/2597549
+Batna City,https://www.geonames.org/2505572
+Monrovia,https://www.geonames.org/2274895
+Kasama,https://www.geonames.org/912764
+Al Jabal al Akhḑar,https://www.geonames.org/443289
+Mtwara,https://www.geonames.org/877747
+Jendouba,https://www.geonames.org/2470088
+Batna City,https://www.geonames.org/2505572
+Luxor,https://www.geonames.org/7603259
+Khouribga,https://www.geonames.org/2544248
+Onitsha,https://www.geonames.org/2326016
+Khartoum,https://www.geonames.org/379253
+Gauteng,https://www.geonames.org/1085594
+Littoral,https://www.geonames.org/2229336
+Région du Grand Casablanca,https://www.geonames.org/2553603
+Tunis,https://www.geonames.org/2464470
+Safi,https://www.geonames.org/2537881
+Biskra,https://www.geonames.org/2503826
+Rabat,https://www.geonames.org/2538475
+Skikda,https://www.geonames.org/2479536
+Khartoum,https://www.geonames.org/379252
+Kano,https://www.geonames.org/2335204
+Katanga,https://www.geonames.org/205703
+Province du Houet,https://www.geonames.org/2360075
+Lindi,https://www.geonames.org/155946
+Rose Hill,https://www.geonames.org/11495625
+Benue State,https://www.geonames.org/2347266
+Oran,https://www.geonames.org/2485926
+Makurdi,https://www.geonames.org/2331140
+Hauts-Bassins,https://www.geonames.org/6930710
+Jendouba,https://www.geonames.org/2470088
+Mpumalanga,https://www.geonames.org/973111
+Montserrado County,https://www.geonames.org/2274890
+Al Marqab,https://www.geonames.org/7602691
+Timgad,https://www.geonames.org/2476409
+Lindi,https://www.geonames.org/155946
+Région de Meknès-Tafilalet,https://www.geonames.org/2542710
+Meknes,https://www.geonames.org/2542715
+Constantine,https://www.geonames.org/2501152
+Al Jazā’ir,https://www.geonames.org/99205
+Beau Vallon,https://www.geonames.org/241427
+Tripoli,https://www.geonames.org/2210247
+South-West,https://www.geonames.org/2221788
+Barbary,https://www.geonames.org/2219875
+Région de Rabat-Salé-Zemmour-Zaër,https://www.geonames.org/2538470
+El Oued,https://www.geonames.org/2497406
+Morogoro,https://www.geonames.org/153220
+Région de Souss-Massa-Drâa,https://www.geonames.org/2597554

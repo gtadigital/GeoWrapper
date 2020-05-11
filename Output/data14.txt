@@ -1,0 +1,61 @@
+"Zürich, Grossmannstrasse",https://www.geonames.org/10398374
+"Zürich, Grubenstrasse",https://www.geonames.org/10389970
+"Zürich, Gutstrasse",https://www.geonames.org/10387901
+Zürich HB,https://www.geonames.org/6324510
+"Zürich, Hegianwandweg",https://www.geonames.org/10385208
+"Zürich, Herzogenmühlestrasse",https://www.geonames.org/10399002
+"Zürich, Heubeeriweg",https://www.geonames.org/10393078
+"Zürich, Hinterbergstrasse",https://www.geonames.org/10384981
+"Zürich, Hofstrasse",https://www.geonames.org/10385296
+"Zürich, Hönggerberg",https://www.geonames.org/10392911
+"Zürich, Hügelstrasse",https://www.geonames.org/10382440
+"Zürich, Hürstholz",https://www.geonames.org/10398311
+"Zürich, Im Gut",https://www.geonames.org/10400117
+"Zürich, Im Klösterli",https://www.geonames.org/10379247
+"Zürich, Kapfstrasse",https://www.geonames.org/10378774
+"Zürich, Kernstrasse",https://www.geonames.org/10394476
+"Zürich, Krönleinstrasse",https://www.geonames.org/10387425
+"Zürich, Landiwiese",https://www.geonames.org/10399193
+"Zürich, Langensteinenstrasse",https://www.geonames.org/10384999
+"Zürich, Langgrütstrasse",https://www.geonames.org/10378658
+"Zürich, Lehenstrasse",https://www.geonames.org/10397072
+"Zürich, Loorenstrasse",https://www.geonames.org/10378600
+"Zürich, Manegg",https://www.geonames.org/10390060
+"Zürich, Michelstrasse",https://www.geonames.org/10392683
+"Zürich, Neeserweg",https://www.geonames.org/10391630
+"Zürich, Neubühl",https://www.geonames.org/10385900
+"Zürich, Nordstrasse",https://www.geonames.org/10382271
+"Zürich, Nürenbergstrasse",https://www.geonames.org/10384246
+"Zürich, Okenstrasse",https://www.geonames.org/10396394
+"Zürich, Räffelstrasse",https://www.geonames.org/10392847
+"Zürich, Rautistrasse",https://www.geonames.org/10386722
+Zürich-Rehalp,https://www.geonames.org/7911074
+"Zürich, Riedhofstrasse",https://www.geonames.org/10397942
+"Zürich, Röntgenstrasse",https://www.geonames.org/10383160
+"Zürich, Rosengartenstrasse",https://www.geonames.org/10393410
+"Zürich, Rotbuchstrasse",https://www.geonames.org/10386372
+"Zürich, Rütihof",https://www.geonames.org/10393039
+"Zürich, Saatlenstrasse",https://www.geonames.org/10391339
+"Zürich, Sackzelg",https://www.geonames.org/10390053
+"Zürich, Sädlenweg",https://www.geonames.org/10382108
+"Zürich, Salzweg",https://www.geonames.org/10390509
+"Zürich, Schanzackerstrasse",https://www.geonames.org/10396457
+"Zürich, Schärenmoosstrasse",https://www.geonames.org/10387226
+"Zürich, Scheuchzerstrasse",https://www.geonames.org/10389874
+"Zürich, Seebahnstrasse",https://www.geonames.org/10395633
+"Zürich, Segantinistrasse",https://www.geonames.org/10390532
+"Zürich, Sihlweidstrasse",https://www.geonames.org/10379708
+"Zürich, Spyristeig",https://www.geonames.org/10383638
+"Zürich, Strickhof",https://www.geonames.org/10397872
+"Zürich, Thujastrasse",https://www.geonames.org/10386376
+Station Tiefenbrunnen,https://www.geonames.org/2658366
+"Zürich, Titlisstrasse",https://www.geonames.org/10393716
+"Zürich, Untermoosstrasse",https://www.geonames.org/10379373
+"Zürich, Usteristrasse",https://www.geonames.org/10382589
+"Zürich, Vulkanstrasse",https://www.geonames.org/10391534
+"Zürich, Waserstrasse",https://www.geonames.org/10393643
+"Zürich, Widmerstrasse",https://www.geonames.org/10382189
+"Zürich, Winzerhalde",https://www.geonames.org/10398921
+London Charing Cross,https://www.geonames.org/2653340
+Kirksville,https://www.geonames.org/4242336
+Norwich,https://www.geonames.org/2641181

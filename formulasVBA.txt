@@ -1,0 +1,4 @@
+
+=IF(ISNA(MATCH(A1;C:C;0));"";INDEX(C:C;MATCH(A1;C:C;0))) --> COLB
+
+=IFERROR(INDEX($E:$E;MATCH($B1;$D:$D;0));"")  ---> COLC

@@ -1,0 +1,984 @@
+Eggiwil,https://www.geonames.org/7285706
+Le Petit Miolan,https://www.geonames.org/11217322
+Treyvaux,https://www.geonames.org/7287330
+Bavugls,https://www.geonames.org/2661589
+Clarens,https://www.geonames.org/1013397
+Rheinau,https://www.geonames.org/2847669
+Schwaz,https://www.geonames.org/7872634
+Vigevano,https://www.geonames.org/3164376
+Stockton-on-Tees,https://www.geonames.org/2636876
+Villadeati,https://www.geonames.org/6535064
+Stoke-on-Trent,https://www.geonames.org/2636841
+Viborg,https://www.geonames.org/2610319
+Turgi,https://www.geonames.org/2658288
+Ueberstorf,https://www.geonames.org/2658281
+Bécal,https://www.geonames.org/3532326
+Uerkheim,https://www.geonames.org/2658279
+Ursy,https://www.geonames.org/7287395
+Einigen,https://www.geonames.org/2660926
+L’Ermitage,https://www.geonames.org/3722269
+Hostatt,https://www.geonames.org/10130959
+Tiefenbach,https://www.geonames.org/2763638
+Richterswil,https://www.geonames.org/7286894
+Nocera Inferiore,https://www.geonames.org/3172244
+Ehrendingen,https://www.geonames.org/2658256
+Elsigbach,https://www.geonames.org/2660915
+Bedra,https://www.geonames.org/11470312
+Hostetten,https://www.geonames.org/10131037
+Basse-Nendaz,https://www.geonames.org/2661600
+Clos de Champagne,https://www.geonames.org/11216921
+Rickenbach,https://www.geonames.org/8533592
+Torno,https://www.geonames.org/3165498
+Unterkulm,https://www.geonames.org/2658248
+Vauderens,https://www.geonames.org/2658181
+Emmenmatt,https://www.geonames.org/2660909
+Le Ruisseau,https://www.geonames.org/6052704
+Bei der Säge,https://www.geonames.org/2661578
+Hüethütte,https://www.geonames.org/10131235
+Treib,https://www.geonames.org/2658325
+Clos de la George,https://www.geonames.org/11216150
+Rikon,https://www.geonames.org/1629633
+Cerveteri,https://www.geonames.org/3178999
+Pegli,https://www.geonames.org/3171309
+Bonneuil-sur-Marne,https://www.geonames.org/3031709
+Unterlunkhofen,https://www.geonames.org/2658244
+Vaulruz,https://www.geonames.org/7287421
+Bell,https://www.geonames.org/1020316
+Hüetleren,https://www.geonames.org/10131190
+Coinsins,https://www.geonames.org/7285525
+Rorbas,https://www.geonames.org/2658974
+Untersiggenthal,https://www.geonames.org/2658237
+Emmental,https://www.geonames.org/2660908
+Les Arbères,https://www.geonames.org/11217181
+Bellaluna,https://www.geonames.org/2661573
+Piuro,https://www.geonames.org/3170603
+Surrey,https://www.geonames.org/11609020
+Villarsel-le-Gibloux,https://www.geonames.org/2658131
+Les Avanchets,https://www.geonames.org/7779000
+Hugen,https://www.geonames.org/3227295
+Basweri,https://www.geonames.org/11216456
+Rümlang,https://www.geonames.org/2658927
+Veltheim,https://www.geonames.org/2658173
+Villarsiviriaux,https://www.geonames.org/2658130
+Engelberg,https://www.geonames.org/2660902
+Les Baillets,https://www.geonames.org/11217555
+Unter Egg,https://www.geonames.org/10131531
+Rüschlikon,https://www.geonames.org/2658919
+Madonna di Campiglio,https://www.geonames.org/3174326
+Sölden,https://www.geonames.org/7872529
+Piantonia,https://www.geonames.org/3170923
+Villigen,https://www.geonames.org/7287478
+Villars-sur-Glâne,https://www.geonames.org/2658128
+Les Biolays,https://www.geonames.org/11216888
+Hundachen,https://www.geonames.org/10130961
+Colombier,https://www.geonames.org/2661144
+Russikon,https://www.geonames.org/2658917
+Villmergen,https://www.geonames.org/7287479
+Villars-sur-Marly,https://www.geonames.org/2658127
+Eriswil,https://www.geonames.org/2660876
+Hüsli,https://www.geonames.org/6291979
+Bätzia,https://www.geonames.org/11217266
+Rüti,https://www.geonames.org/2658911
+Fanzolo,https://www.geonames.org/3177213
+Rho,https://www.geonames.org/3169447
+Wexford,https://www.geonames.org/2960964
+Villnachern,https://www.geonames.org/7287480
+Villarvolard,https://www.geonames.org/2658125
+Eriz,https://www.geonames.org/2660875
+Bergün,https://www.geonames.org/2661556
+Hüttenort,https://www.geonames.org/10194821
+Unterschächen,https://www.geonames.org/7287384
+Baudrà,https://www.geonames.org/8979409
+Saland,https://www.geonames.org/2658856
+Braga,https://www.geonames.org/2742032
+Bussum,https://www.geonames.org/2758064
+Llangynog,https://www.geonames.org/7295459
+Vordemwald,https://www.geonames.org/7287494
+Villaz-Saint-Pierre,https://www.geonames.org/2658124
+Erlach,https://www.geonames.org/2929577
+Les Charrotons,https://www.geonames.org/11048479
+Baule,https://www.geonames.org/1105294
+Samstagern,https://www.geonames.org/2658841
+Avignon,https://www.geonames.org/3035681
+Gibraltar,https://www.geonames.org/2411585
+Waltenschwil,https://www.geonames.org/7287535
+Erle,https://www.geonames.org/5949271
+Les Couty,https://www.geonames.org/11216640
+Hüttismatt,https://www.geonames.org/10131239
+Beaupérier,https://www.geonames.org/11217614
+Combremont-le-Petit,https://www.geonames.org/2661139
+Schlieren,https://www.geonames.org/7287094
+Wegenstetten,https://www.geonames.org/2658039
+Vuadens,https://www.geonames.org/7287498
+Ersigen,https://www.geonames.org/7285763
+Region Bernina,https://www.geonames.org/11611656
+Ifängi,https://www.geonames.org/10194737
+Commugny,https://www.geonames.org/7285536
+Porto,https://www.geonames.org/2735943
+Orvieto,https://www.geonames.org/3171874
+Civitavecchia,https://www.geonames.org/3178587
+Portofino,https://www.geonames.org/3170092
+Wettingen,https://www.geonames.org/2658011
+Vuisternens-en-Ogoz,https://www.geonames.org/2658088
+Evilard,https://www.geonames.org/2660842
+Berninahäuser,https://www.geonames.org/2661544
+Inner Bürg,https://www.geonames.org/10130955
+Schönenberg,https://www.geonames.org/2658710
+Sutton,https://www.geonames.org/2636503
+Wil,https://www.geonames.org/2657996
+Wallenbuch,https://www.geonames.org/2658063
+Moscow Oblast,https://www.geonames.org/524925
+Wildegg,https://www.geonames.org/2603285
+Wallenried,https://www.geonames.org/7287528
+Fahrni,https://www.geonames.org/2660833
+Bersach,https://www.geonames.org/11219788
+Isenringen,https://www.geonames.org/10130994
+Beffeux,https://www.geonames.org/10386674
+Concise,https://www.geonames.org/7285539
+Schwarzenbach am Wald,https://www.geonames.org/2835019
+Windisch,https://www.geonames.org/2657976
+Wünnewil,https://www.geonames.org/2657950
+Les Evaux,https://www.geonames.org/11217758
+Bertedà,https://www.geonames.org/11219810
+Coppet,https://www.geonames.org/7285545
+Paestum,https://www.geonames.org/3171709
+Moscow,https://www.geonames.org/524901
+Bourgogne-Franche-Comté,https://www.geonames.org/11071619
+Pompei,https://www.geonames.org/3170335
+Wittnau,https://www.geonames.org/2657967
+Zumholz,https://www.geonames.org/2657901
+Fang,https://www.geonames.org/1153426
+Bever,https://www.geonames.org/2661529
+Kaisermatt,https://www.geonames.org/10194858
+Corbeyrier,https://www.geonames.org/7285547
+Seegräben,https://www.geonames.org/7287134
+Folkestone,https://www.geonames.org/2649258
+Wohlen,https://www.geonames.org/2657963
+Les Graves,https://www.geonames.org/3425694
+Kehrsiten,https://www.geonames.org/2660176
+Vorder Boden,https://www.geonames.org/2658102
+Corcelles,https://www.geonames.org/3023721
+Ciudad de Huajuapan de León,https://www.geonames.org/3527023
+Pompeii,https://www.geonames.org/3170336
+Warwickshire,https://www.geonames.org/11609021
+Palazzo del Pero,https://www.geonames.org/3171632
+Boulogne-Billancourt,https://www.geonames.org/3031137
+Telfs,https://www.geonames.org/2763810
+Wölflinswil,https://www.geonames.org/7287606
+Fankhaus,https://www.geonames.org/2660823
+Les Jones,https://www.geonames.org/11217244
+Bever,https://www.geonames.org/2661529
+Cossonay,https://www.geonames.org/2661104
+Färiche,https://www.geonames.org/11215392
+Würenlingen,https://www.geonames.org/2657948
+Les Mévaux,https://www.geonames.org/11217275
+Klewenstock,https://www.geonames.org/10131053
+Vorfrutt,https://www.geonames.org/2658095
+Côte Rôtie,https://www.geonames.org/11215682
+Maria Enzersdorf,https://www.geonames.org/7871854
+Faulensee,https://www.geonames.org/2660814
+Würenlos,https://www.geonames.org/2657947
+Les Murailles,https://www.geonames.org/3000194
+Krummenacher,https://www.geonames.org/10194857
+Wassen,https://www.geonames.org/7287546
+Crans,https://www.geonames.org/3022695
+Seuzach,https://www.geonames.org/7287158
+Feldmoos,https://www.geonames.org/2660804
+Zeihen,https://www.geonames.org/7287626
+Crans-près-Céligny,https://www.geonames.org/7285586
+Thaur,https://www.geonames.org/7873624
+Rapallo,https://www.geonames.org/3169602
+Annemasse,https://www.geonames.org/3037538
+Zofingen,https://www.geonames.org/7287639
+Les Pauses Basses,https://www.geonames.org/11217237
+Bignideu,https://www.geonames.org/11219837
+Lehmatt,https://www.geonames.org/10194840
+Bellwald,https://www.geonames.org/7285191
+Crassier,https://www.geonames.org/7285587
+Stadel,https://www.geonames.org/2829889
+Zofingen,https://www.geonames.org/7287639
+Leid Härggis,https://www.geonames.org/10131003
+Wiggen,https://www.geonames.org/2658001
+Crebelley,https://www.geonames.org/7670130
+Stäfa,https://www.geonames.org/7287211
+Bourg-la-Reine,https://www.geonames.org/3030990
+Syracuse,https://www.geonames.org/2523083
+Wels,https://www.geonames.org/2761524
+Trins,https://www.geonames.org/2763348
+Sanremo,https://www.geonames.org/3167777
+Bad Langensalza,https://www.geonames.org/2953413
+Zufikon,https://www.geonames.org/7287643
+Les Peutets,https://www.geonames.org/11217155
+Bivio,https://www.geonames.org/2661484
+Belvedere,https://www.geonames.org/11495158
+Čreta,https://www.geonames.org/8987019
+Stallikon,https://www.geonames.org/7287215
+Ferenbalm,https://www.geonames.org/2660798
+Bezirk Zurzach,https://www.geonames.org/6458788
+Lochmatt,https://www.geonames.org/2876570
+Wiler,https://www.geonames.org/7670026
+Crêt-à-Tavez,https://www.geonames.org/10380921
+Stammheim,https://www.geonames.org/12021849
+Ponte San Pietro,https://www.geonames.org/3170218
+Montepulciano,https://www.geonames.org/3172794
+Fermelberg,https://www.geonames.org/2660797
+Verneys,https://www.geonames.org/2969790
+Crêt d’y Bau,https://www.geonames.org/11215254
+Feutersoey,https://www.geonames.org/2660786
+Zuzgen,https://www.geonames.org/7287651
+Les Verpillères,https://www.geonames.org/11217453
+Loo,https://www.geonames.org/590537
+Bendolla,https://www.geonames.org/11217864
+Crête du Fer,https://www.geonames.org/11215872
+Steg,https://www.geonames.org/6545410
+Melk,https://www.geonames.org/2771682
+West Midlands,https://www.geonames.org/11591953
+Riga,https://www.geonames.org/456172
+Bretagne,https://www.geonames.org/3030288
+Ivrea,https://www.geonames.org/3175384
+West Sussex,https://www.geonames.org/11609022
+Deidesheim,https://www.geonames.org/2938465
+Filderich,https://www.geonames.org/2660777
+Le Verney,https://www.geonames.org/2998867
+Blaunca,https://www.geonames.org/8393979
+Loo,https://www.geonames.org/590537
+Cretillon,https://www.geonames.org/11215818
+Sternenberg,https://www.geonames.org/2973802
+Paesana,https://www.geonames.org/3171711
+Portmeirion,https://www.geonames.org/6620365
+Loëx,https://www.geonames.org/11217660
+Loren,https://www.geonames.org/2694129
+Tann,https://www.geonames.org/2824229
+West Yorkshire,https://www.geonames.org/2634219
+Mödling,https://www.geonames.org/2771335
+Teufen AR,https://www.geonames.org/2658397
+Lullier,https://www.geonames.org/7669745
+Bodio,https://www.geonames.org/2661463
+Matt,https://www.geonames.org/2659735
+Berghüsli,https://www.geonames.org/11216690
+Thalheim an der Thur,https://www.geonames.org/7287298
+Möllersdorf,https://www.geonames.org/2771305
+Bad Lauchstädt,https://www.geonames.org/2953412
+Lully,https://www.geonames.org/2997144
+Bögia,https://www.geonames.org/2661462
+Bergji,https://www.geonames.org/11218251
+Crie,https://www.geonames.org/11217324
+Thalwil,https://www.geonames.org/7287299
+Fleuweid,https://www.geonames.org/11215721
+Machefer,https://www.geonames.org/11216809
+Matthweiden,https://www.geonames.org/10194819
+Zumdorf,https://www.geonames.org/2657902
+Crissier,https://www.geonames.org/7285594
+Wiltshire,https://www.geonames.org/11609014
+Croatia,https://www.geonames.org/3202326
+Segrate,https://www.geonames.org/3166808
+Cantabria,https://www.geonames.org/3565664
+Arcachon,https://www.geonames.org/3037253
+Fraubrunnen,https://www.geonames.org/2660728
+El Harrach,https://www.geonames.org/2498056
+Bolgen,https://www.geonames.org/2661458
+Mattli,https://www.geonames.org/10194733
+Občina Tržič,https://www.geonames.org/3188687
+Frauenkappelen,https://www.geonames.org/2660726
+Meinberg,https://www.geonames.org/10131012
+Tössegg,https://www.geonames.org/2658340
+Windsor and Maidenhead,https://www.geonames.org/2633840
+Frieswil,https://www.geonames.org/2660714
+Bonaduz,https://www.geonames.org/2661453
+Mettenweg,https://www.geonames.org/10194731
+Stevenage,https://www.geonames.org/2636940
+Malval,https://www.geonames.org/2996321
+Bondo,https://www.geonames.org/218253
+Milchbrunnen,https://www.geonames.org/10194852
+Berté,https://www.geonames.org/244917
+Brétigny-sur-Orge,https://www.geonames.org/3030257
+Domegge di Cadore,https://www.geonames.org/3177539
+Wokingham,https://www.geonames.org/3333221
+Wattens,https://www.geonames.org/7873629
+Marsillon,https://www.geonames.org/11217971
+Borgonovo,https://www.geonames.org/2661441
+Cudrefin,https://www.geonames.org/7285601
+Trüllikon,https://www.geonames.org/7287342
+Velenje,https://www.geonames.org/3189075
+Frankenthal,https://www.geonames.org/2925550
+Frutigen,https://www.geonames.org/2660707
+Mategnin,https://www.geonames.org/7670292
+Borma,https://www.geonames.org/572316
+Mittler Wissiflue,https://www.geonames.org/10194781
+Turbenthal,https://www.geonames.org/7287352
+Trapani,https://www.geonames.org/2522876
+Frutigen-Niedersimmental District,https://www.geonames.org/8260135
+Meinier,https://www.geonames.org/7286473
+Mittlist Ei,https://www.geonames.org/10194794
+Bertolène,https://www.geonames.org/11218144
+Cugy,https://www.geonames.org/2661064
+Uerikon,https://www.geonames.org/2658280
+Fuhre,https://www.geonames.org/2660705
+Merdisel,https://www.geonames.org/11217522
+Bosciola,https://www.geonames.org/11219748
+Cully,https://www.geonames.org/3231650
+Uetikon,https://www.geonames.org/2658276
+Hinton Ampner,https://www.geonames.org/2646847
+Laguardia,https://www.geonames.org/6355265
+Furbachsweideni,https://www.geonames.org/11215543
+Merlinge,https://www.geonames.org/11217054
+Botegh,https://www.geonames.org/11219981
+Morschfeld,https://www.geonames.org/10131233
+Termes,https://www.geonames.org/2785663
+Daillens,https://www.geonames.org/7285617
+Uhwiesen,https://www.geonames.org/2658271
+Fure,https://www.geonames.org/9357270
+Meyrin,https://www.geonames.org/2659667
+Dailly,https://www.geonames.org/2641657
+Uitikon,https://www.geonames.org/2658269
+Tarquinia,https://www.geonames.org/3165919
+Orenburg Oblast,https://www.geonames.org/515001
+Tring,https://www.geonames.org/2635459
+Miolan,https://www.geonames.org/11217296
+Braga,https://www.geonames.org/2742032
+Mürg,https://www.geonames.org/6291929
+Betten,https://www.geonames.org/7285221
+Unter-Buch,https://www.geonames.org/2658258
+Müsli,https://www.geonames.org/6293015
+Bettmeralp,https://www.geonames.org/6559543
+Devant,https://www.geonames.org/2661029
+Unterengstringen,https://www.geonames.org/2658253
+Orel Oblast,https://www.geonames.org/514801
+Ibiza,https://www.geonames.org/2516477
+Ireland,https://www.geonames.org/2646052
+Stowe,https://www.geonames.org/5214449
+Grünstadt,https://www.geonames.org/2914101
+Gadmen,https://www.geonames.org/2660687
+Monniaz,https://www.geonames.org/7670307
+Braggio,https://www.geonames.org/7285318
+Nasmattli,https://www.geonames.org/10130941
+Dizy,https://www.geonames.org/3021293
+Gals,https://www.geonames.org/2660673
+Brail,https://www.geonames.org/2661423
+Niderwil,https://www.geonames.org/7670320
+Beulet,https://www.geonames.org/11216894
+Domaine du Rhône,https://www.geonames.org/11217119
+Unterstammheim,https://www.geonames.org/7287387
+Fiumicino,https://www.geonames.org/3176923
+Harlow,https://www.geonames.org/2647461
+Moulin de Grilly,https://www.geonames.org/11216428
+Braita,https://www.geonames.org/11219483
+Niederbüren,https://www.geonames.org/2659468
+Beuson,https://www.geonames.org/2661532
+Dompierre,https://www.geonames.org/2660996
+Taplow,https://www.geonames.org/2636250
+Gampelen,https://www.geonames.org/2660671
+Braita,https://www.geonames.org/11219483
+Niederdorf,https://www.geonames.org/6946275
+Beuson,https://www.geonames.org/2661532
+Donatyre,https://www.geonames.org/2660995
+Uster,https://www.geonames.org/2658216
+Diksmuide,https://www.geonames.org/2799369
+Alfeld,https://www.geonames.org/2958533
+Pienza,https://www.geonames.org/3170829
+Brand,https://www.geonames.org/2945424
+Niederrickenbach,https://www.geonames.org/2659458
+Donneloye,https://www.geonames.org/7285666
+Uster,https://www.geonames.org/2658216
+Moulin Fabry,https://www.geonames.org/11217283
+Dorchaux,https://www.geonames.org/11215658
+Uster,https://www.geonames.org/2658216
+Positano,https://www.geonames.org/3170051
+Delft,https://www.geonames.org/2757345
+Moulin Roget,https://www.geonames.org/11218026
+Engadin,https://www.geonames.org/2660904
+Murat,https://www.geonames.org/1169713
+Volketswil,https://www.geonames.org/7287492
+Perchtoldsdorf,https://www.geonames.org/7871856
+Italy,https://www.geonames.org/3175395
+Novara,https://www.geonames.org/3172189
+Watford,https://www.geonames.org/2634677
+Genthalhütten,https://www.geonames.org/2660641
+Onex,https://www.geonames.org/2659296
+Bregan,https://www.geonames.org/9141506
+Oberbünt,https://www.geonames.org/10194735
+Duillier,https://www.geonames.org/7285678
+Geristein,https://www.geonames.org/2660638
+Passeiry,https://www.geonames.org/11218023
+Bregnon,https://www.geonames.org/11220063
+Bideralp,https://www.geonames.org/11218222
+Dully,https://www.geonames.org/7285680
+Wädenswil,https://www.geonames.org/7287513
+Bouillon,https://www.geonames.org/2801283
+De Lier,https://www.geonames.org/2757336
+Ravello,https://www.geonames.org/3169562
+Oleggio,https://www.geonames.org/3172079
+Northampton,https://www.geonames.org/2641430
+Ingelheim am Rhein,https://www.geonames.org/2896020
+Peissy,https://www.geonames.org/7669838
+Breíl,https://www.geonames.org/2661414
+Oberdorf,https://www.geonames.org/2659401
+Bidermatten,https://www.geonames.org/10382588
+Échallens,https://www.geonames.org/2660950
+Wald,https://www.geonames.org/4880430
+Gerzensee,https://www.geonames.org/2660628
+Briagn,https://www.geonames.org/11220024
+Biel,https://www.geonames.org/776039
+Éclépens,https://www.geonames.org/8533301
+Wallisellen,https://www.geonames.org/2658060
+Rovigo,https://www.geonames.org/3168843
+Tuscania,https://www.geonames.org/3165083
+Aubigny-au-Bac,https://www.geonames.org/3036335
+Welwyn,https://www.geonames.org/2634553
+Gidisdorf,https://www.geonames.org/2660621
+Brienz,https://www.geonames.org/2661398
+Biel,https://www.geonames.org/776039
+Waltikon,https://www.geonames.org/2658056
+Welwyn Garden City,https://www.geonames.org/2634552
+Woking,https://www.geonames.org/2633709
+K-Town,https://www.geonames.org/2894003
+Giebel,https://www.geonames.org/2920662
+Ober Müllerboden,https://www.geonames.org/10131578
+Biel,https://www.geonames.org/776039
+En Cheseaux,https://www.geonames.org/11216826
+Wasterkingen,https://www.geonames.org/7287547
+Sondrio,https://www.geonames.org/3166397
+Giessbach,https://www.geonames.org/2660619
+Perly-Certoux,https://www.geonames.org/3209503
+Brüggen,https://www.geonames.org/2943335
+En Collatel,https://www.geonames.org/11217001
+Weiningen,https://www.geonames.org/2658035
+Bad Muskau,https://www.geonames.org/2953397
+Pishay,https://www.geonames.org/1130728
+Oberrickenbach,https://www.geonames.org/2659361
+Biel,https://www.geonames.org/776039
+En Crettaz,https://www.geonames.org/11216135
+Weisslingen,https://www.geonames.org/2658024
+Orta San Giulio,https://www.geonames.org/3171899
+Den Hoorn,https://www.geonames.org/2757215
+Scandriglia,https://www.geonames.org/3166983
+Brusio,https://www.geonames.org/2661365
+Ober Sassi,https://www.geonames.org/10130978
+Biel,https://www.geonames.org/776039
+En Pillon,https://www.geonames.org/11216119
+Gimmelwald,https://www.geonames.org/2660611
+Petite Coudre,https://www.geonames.org/11216114
+Buaira,https://www.geonames.org/11219353
+Ober Spis,https://www.geonames.org/10130990
+Ensex,https://www.geonames.org/2660889
+Wernetshausen,https://www.geonames.org/2658015
+Feltre,https://www.geonames.org/3177120
+Bad Schandau,https://www.geonames.org/6550817
+Buchen,https://www.geonames.org/2781236
+Ober Trübsee Alp,https://www.geonames.org/2659335
+Biela,https://www.geonames.org/3103484
+Wetzikon,https://www.geonames.org/2658010
+Goldiwil,https://www.geonames.org/2660571
+Ober Wissiflüeli,https://www.geonames.org/10194777
+Biele,https://www.geonames.org/776016
+En Tompey,https://www.geonames.org/11215867
+Pottendorf,https://www.geonames.org/2768472
+Küsel,https://www.geonames.org/2882264
+Goldswil,https://www.geonames.org/2660570
+Bielen,https://www.geonames.org/2949185
+Wiesendangen,https://www.geonames.org/8740940
+Obgass,https://www.geonames.org/10130953
+Bielti,https://www.geonames.org/10194776
+Wil,https://www.geonames.org/2657996
+Miserden,https://www.geonames.org/2642421
+Gondiswil,https://www.geonames.org/2660566
+Ochsenweidli,https://www.geonames.org/10131070
+Épalinges,https://www.geonames.org/2660884
+Wila,https://www.geonames.org/2657993
+Altena,https://www.geonames.org/12022128
+Pinchat,https://www.geonames.org/11048380
+Öltrotte,https://www.geonames.org/10131270
+Bielti,https://www.geonames.org/10194776
+Epautheyres,https://www.geonames.org/2660883
+Wildberg,https://www.geonames.org/2657991
+Grandval,https://www.geonames.org/2660528
+Bunet,https://www.geonames.org/11219392
+Pinchat la Tour,https://www.geonames.org/11048420
+Öltrotten,https://www.geonames.org/10247994
+Épendes,https://www.geonames.org/2660881
+Windlach,https://www.geonames.org/2657975
+Griesalp,https://www.geonames.org/2660505
+Plainpalais,https://www.geonames.org/6691636
+Les,https://www.geonames.org/3118504
+Winterthur,https://www.geonames.org/2657970
+Tirano,https://www.geonames.org/3165647
+Málaga,https://www.geonames.org/2514256
+Grimmialp,https://www.geonames.org/2660502
+Planet,https://www.geonames.org/6106152
+Essert d’Amont,https://www.geonames.org/11216093
+Winterthur,https://www.geonames.org/2657970
+Burtgas,https://www.geonames.org/2661309
+Plan-les-Ouates,https://www.geonames.org/2659190
+Biffig,https://www.geonames.org/2948999
+Essertines-sur-Rolle,https://www.geonames.org/7285773
+Sorrento,https://www.geonames.org/3166350
+Salerno,https://www.geonames.org/3168673
+Rodionovo-Nesvetayskaya,https://www.geonames.org/501774
+Comeglians,https://www.geonames.org/3178238
+Ludwigshafen am Rhein,https://www.geonames.org/2875376
+Plein Vent,https://www.geonames.org/11218013
+Biffig,https://www.geonames.org/2948999
+Port-de-Corsier,https://www.geonames.org/2659168
+Rägenrüti,https://www.geonames.org/10130937
+Busen,https://www.geonames.org/3227407
+Bifiga,https://www.geonames.org/11216389
+Zell,https://www.geonames.org/2804882
+Exergillod,https://www.geonames.org/2660839
+Cuntis,https://www.geonames.org/6360217
+Rostov,https://www.geonames.org/501165
+Marbella,https://www.geonames.org/2514169
+Hever,https://www.geonames.org/2795785
+Mainz,https://www.geonames.org/2874225
+Grindelfeld,https://www.geonames.org/2660499
+Cabbiolo,https://www.geonames.org/2661296
+Bifigjini,https://www.geonames.org/11218179
+Zollikon,https://www.geonames.org/7287641
+Eysins,https://www.geonames.org/2660837
+Grindelwald,https://www.geonames.org/2660498
+Pregny,https://www.geonames.org/2659141
+Cascavel Airport,https://www.geonames.org/7668432
+Regenloch,https://www.geonames.org/10130939
+Eysins,https://www.geonames.org/2660837
+Zumikon,https://www.geonames.org/2657900
+Verona,https://www.geonames.org/3164527
+Pregny-Chambésy,https://www.geonames.org/2659140
+Ribistalden,https://www.geonames.org/10194790
+Faoug,https://www.geonames.org/7285796
+Zurich,https://www.geonames.org/2657896
+Reedley,https://www.geonames.org/5386984
+Bíňa,https://www.geonames.org/12057000
+Favrins,https://www.geonames.org/11216035
+Zurich,https://www.geonames.org/2657896
+Cergy-Pontoise,https://www.geonames.org/8555643
+Viterbo,https://www.geonames.org/3164039
+Vernate,https://www.geonames.org/3164536
+Presinge,https://www.geonames.org/7286834
+Caccior,https://www.geonames.org/11219693
+Rieden,https://www.geonames.org/8533191
+Bíňa,https://www.geonames.org/12057000
+Grodoey,https://www.geonames.org/2660496
+Pressy,https://www.geonames.org/2985377
+Riedhostet,https://www.geonames.org/10194786
+Bine,https://www.geonames.org/8974291
+Neustadt,https://www.geonames.org/2864054
+Grossaffoltern,https://www.geonames.org/2660491
+Cadera Dafora,https://www.geonames.org/11219699
+Riedmatt,https://www.geonames.org/2847072
+Binii,https://www.geonames.org/10382471
+Walford,https://www.geonames.org/2634889
+Puplinge,https://www.geonames.org/7286843
+Binn,https://www.geonames.org/7285247
+Fenil aux Veaux,https://www.geonames.org/11215246
+Chalandri,https://www.geonames.org/260172
+Arnsburg,https://www.geonames.org/2955466
+Gross Höchstetten,https://www.geonames.org/2660479
+Richelien,https://www.geonames.org/11216746
+Ca d’Faret,https://www.geonames.org/11219575
+Rietli,https://www.geonames.org/10131071
+Fenil du Rang,https://www.geonames.org/11216108
+Salisbury,https://www.geonames.org/3575612
+Richelien,https://www.geonames.org/11216746
+Rietli,https://www.geonames.org/10131071
+Binna,https://www.geonames.org/10921581
+Ferme des Iles,https://www.geonames.org/11216922
+Latvia,https://www.geonames.org/458258
+Las Rozas de Madrid,https://www.geonames.org/3118848
+Binnegga,https://www.geonames.org/11215764
+Ca d’Starnam,https://www.geonames.org/11219435
+Bignoux,https://www.geonames.org/3032678
+Ferreyres,https://www.geonames.org/7285813
+Vertova,https://www.geonames.org/3164504
+Samara Oblast,https://www.geonames.org/499068
+St Petersburg,https://www.geonames.org/498817
+Grüenbüel,https://www.geonames.org/11215371
+Russin,https://www.geonames.org/7286993
+Feydey,https://www.geonames.org/2660785
+Fribourg,https://www.geonames.org/2660718
+Oxford,https://www.geonames.org/2640729
+Friedrichsthal,https://www.geonames.org/2924461
+Alpirsbach,https://www.geonames.org/6558083
+Rinderbüel,https://www.geonames.org/6937307
+Birch,https://www.geonames.org/5901344
+Fiez,https://www.geonames.org/7285822
+Saratovskaya Oblast,https://www.geonames.org/498671
+San Sebastián,https://www.geonames.org/4568177
+Grund,https://www.geonames.org/3321062
+Saconnex d'Arve Dessus,https://www.geonames.org/11048586
+Rohrhüsli,https://www.geonames.org/10194850
+Birch,https://www.geonames.org/5901344
+Oppenheim,https://www.geonames.org/5129907
+Grund,https://www.geonames.org/3321062
+Birchegga,https://www.geonames.org/11216335
+Fond de l’Hongrin,https://www.geonames.org/11215668
+Riola,https://www.geonames.org/2511823
+Liechtenstein,https://www.geonames.org/3042058
+Grundbach,https://www.geonames.org/2914383
+Saint-Maurice,https://www.geonames.org/2978170
+Calörtsch,https://www.geonames.org/2661285
+Birchen,https://www.geonames.org/10130940
+Vyborg,https://www.geonames.org/470546
+Birgisch,https://www.geonames.org/8533562
+Fond des Joux,https://www.geonames.org/11216065
+Nichelino,https://www.geonames.org/3172269
+Lithuania,https://www.geonames.org/597427
+Gajanejos,https://www.geonames.org/3121772
+Gschwänd,https://www.geonames.org/11487924
+Ca Lunghi,https://www.geonames.org/11219727
+Röten,https://www.geonames.org/11497530
+Gschwänd,https://www.geonames.org/11487924
+Satigny,https://www.geonames.org/7287059
+Rotimatt,https://www.geonames.org/10130970
+Bister,https://www.geonames.org/7285263
+Majorca,https://www.geonames.org/6453300
+St. Pölten,https://www.geonames.org/2766429
+Beichlingen,https://www.geonames.org/6550117
+Gschwändvorschess,https://www.geonames.org/11215656
+Sauverny,https://www.geonames.org/2975667
+Cama,https://www.geonames.org/2661283
+Gstaad,https://www.geonames.org/2660461
+Camaná,https://www.geonames.org/3945985
+Rübikäpeli,https://www.geonames.org/10130969
+Fontanney,https://www.geonames.org/11216404
+Huis ter Heide,https://www.geonames.org/2753488
+Culemborg,https://www.geonames.org/2757872
+Preston,https://www.geonames.org/2639912
+Gsteig,https://www.geonames.org/2660459
+Servais,https://www.geonames.org/6425240
+Bitsch,https://www.geonames.org/2661485
+Ruexen,https://www.geonames.org/10131005
+Forchex,https://www.geonames.org/11216785
+Gsteig,https://www.geonames.org/2660459
+Sézegnin,https://www.geonames.org/2658611
+Camou,https://www.geonames.org/4016024
+Bitsch,https://www.geonames.org/2661485
+Rüteli,https://www.geonames.org/10194820
+Madrid,https://www.geonames.org/3117735
+Sézenove,https://www.geonames.org/11048560
+Camp,https://www.geonames.org/4507767
+Bitschji,https://www.geonames.org/11216218
+Rütenen,https://www.geonames.org/10131009
+Forel’,https://www.geonames.org/2125666
+Ide Hill,https://www.geonames.org/2646295
+Sierne,https://www.geonames.org/11217882
+Campac,https://www.geonames.org/11219712
+Bitzinen,https://www.geonames.org/11216925
+Säge,https://www.geonames.org/2658887
+Forel’,https://www.geonames.org/2125666
+Centre-Val de Loire,https://www.geonames.org/3027939
+San Gimignano,https://www.geonames.org/3168320
+Sionnet,https://www.geonames.org/11217212
+Founex,https://www.geonames.org/2660733
+Audincourt,https://www.geonames.org/3036240
+Guggisberg,https://www.geonames.org/2660452
+Sörål,https://www.geonames.org/2675279
+Campasc,https://www.geonames.org/11219113
+Salacher,https://www.geonames.org/10194831
+Frenières,https://www.geonames.org/2660720
+Urbino,https://www.geonames.org/3165035
+Gümligen,https://www.geonames.org/2660448
+Sorniot,https://www.geonames.org/11217943
+Campasc,https://www.geonames.org/11219113
+Sankt Anna,https://www.geonames.org/2766760
+Frenières,https://www.geonames.org/2660720
+Vejle,https://www.geonames.org/2610613
+Gummeli,https://www.geonames.org/335577
+Campascio,https://www.geonames.org/2661279
+Sankt Heinrich,https://www.geonames.org/2841605
+Donai,https://www.geonames.org/8011425
+Vico Equense,https://www.geonames.org/3164407
+Gümmenen,https://www.geonames.org/2660446
+Froideville,https://www.geonames.org/2660710
+Surpierre,https://www.geonames.org/7287267
+Blattbach,https://www.geonames.org/3334624
+Scharti,https://www.geonames.org/10130934
+Luxembourg,https://www.geonames.org/2960313
+Diemen,https://www.geonames.org/2756888
+Gunten,https://www.geonames.org/2660443
+Campel,https://www.geonames.org/3028955
+Schattigstock,https://www.geonames.org/10131015
+Gâchet,https://www.geonames.org/11216202
+Blatten,https://www.geonames.org/7285266
+Guadalajara,https://www.geonames.org/4005539
+Breda,https://www.geonames.org/2758401
+Thônex,https://www.geonames.org/3209505
+Schilt,https://www.geonames.org/2658737
+Genolier,https://www.geonames.org/7285903
+Blatten,https://www.geonames.org/7285266
+Gurnigelbad,https://www.geonames.org/2660438
+Schiltli,https://www.geonames.org/10131204
+Blatten,https://www.geonames.org/7285266
+Vicenza,https://www.geonames.org/3164419
+Spadafora,https://www.geonames.org/2523041
+Treulaz,https://www.geonames.org/11217814
+Campfer,https://www.geonames.org/2661278
+Géronde,https://www.geonames.org/11216743
+Gütsch,https://www.geonames.org/2660435
+Troinex,https://www.geonames.org/7287338
+Campliun,https://www.geonames.org/2661277
+Gilly,https://www.geonames.org/7285915
+Rovereto,https://www.geonames.org/3168854
+Guttannen,https://www.geonames.org/2660433
+Vandoeuvres,https://www.geonames.org/7287416
+Campocologno,https://www.geonames.org/2661273
+Schloh,https://www.geonames.org/10131036
+Gimel,https://www.geonames.org/7285916
+Vandœuvres,https://www.geonames.org/2658188
+Campovasto,https://www.geonames.org/2661271
+Schmidsboden,https://www.geonames.org/10131206
+Blattnerhalta,https://www.geonames.org/11216036
+Gingins,https://www.geonames.org/7285917
+Hungary,https://www.geonames.org/719819
+Changis-sur-Marne,https://www.geonames.org/3026934
+Verbois,https://www.geonames.org/2658167
+Campsut,https://www.geonames.org/2661270
+Schöneck,https://www.geonames.org/2836772
+Blattu,https://www.geonames.org/11217711
+Gwatt,https://www.geonames.org/2660431
+Vernier,https://www.geonames.org/2658154
+Canal,https://www.geonames.org/3565861
+Schroten,https://www.geonames.org/10194792
+Givrins,https://www.geonames.org/7285924
+North Macedonia,https://www.geonames.org/718075
+Taormina,https://www.geonames.org/2522975
+Smolenskaya Oblast’,https://www.geonames.org/491684
+Versoix,https://www.geonames.org/7287442
+Gland,https://www.geonames.org/2660600
+Habkern,https://www.geonames.org/2660430
+Vésenaz,https://www.geonames.org/2658147
+Schwand,https://www.geonames.org/2835327
+Blitzingen,https://www.geonames.org/7285271
+Glion,https://www.geonames.org/2660581
+Altenau,https://www.geonames.org/2957880
+Mycenae,https://www.geonames.org/257059
+Malta,https://www.geonames.org/2562770
+Nules,https://www.geonames.org/2513180
+Welshpool,https://www.geonames.org/7301034
+Spires,https://www.geonames.org/2830582
+Hagneck,https://www.geonames.org/7286025
+Vessy,https://www.geonames.org/8468924
+Schwanden,https://www.geonames.org/2658684
+Bluche,https://www.geonames.org/8436502
+Glutières,https://www.geonames.org/11216713
+Veyrier,https://www.geonames.org/7287447
+Blüomatt,https://www.geonames.org/7670079
+Gollion,https://www.geonames.org/7285936
+Beauvallon,https://www.geonames.org/3033999
+Terni,https://www.geonames.org/3165771
+Halen,https://www.geonames.org/2796715
+Caneu,https://www.geonames.org/11219914
+Seeweid,https://www.geonames.org/10130938
+Goumoens-la-Ville,https://www.geonames.org/2660544
+Trechtingshausen,https://www.geonames.org/2821408
+Villette,https://www.geonames.org/6174351
+Halte,https://www.geonames.org/2911401
+Seewli,https://www.geonames.org/11397049
+Grancy,https://www.geonames.org/7285957
+Geneva,https://www.geonames.org/2660646
+Virloup,https://www.geonames.org/2967936
+Halte,https://www.geonames.org/2911401
+Bodé,https://www.geonames.org/2253808
+Canova,https://www.geonames.org/5460238
+Städtli,https://www.geonames.org/7669938
+Bodé,https://www.geonames.org/2253808
+Grand Bois,https://www.geonames.org/3724603
+Geneva International Airport,https://www.geonames.org/2660644
+Haltevorschess,https://www.geonames.org/11215802
+Stäfeli,https://www.geonames.org/10194805
+Bodé,https://www.geonames.org/2253808
+Cansumé,https://www.geonames.org/11219738
+Staffel,https://www.geonames.org/2829722
+Bodenbrücke,https://www.geonames.org/11218172
+Grandchamp,https://www.geonames.org/3015299
+Meran,https://www.geonames.org/3173577
+Corinth,https://www.geonames.org/259289
+Boussu,https://www.geonames.org/2801226
+Handegg,https://www.geonames.org/2660413
+Cänt,https://www.geonames.org/11113354
+Staldeli,https://www.geonames.org/10194774
+Bodma,https://www.geonames.org/11216885
+Grand Chêne,https://www.geonames.org/3724558
+Hanseli,https://www.geonames.org/11215799
+Canton,https://www.geonames.org/5149222
+Staldifeld,https://www.geonames.org/10194759
+Bodma,https://www.geonames.org/11216885
+Nafplion,https://www.geonames.org/256637
+Bad Segeberg,https://www.geonames.org/2953341
+Stans,https://www.geonames.org/2658504
+Bodma,https://www.geonames.org/11216885
+Pylos,https://www.geonames.org/255293
+Hasle,https://www.geonames.org/2620716
+Bodme,https://www.geonames.org/11403255
+Grandcour,https://www.geonames.org/7285958
+New Alresford,https://www.geonames.org/2641736
+Worms,https://www.geonames.org/2806142
+Haslı,https://www.geonames.org/745750
+Stansstad,https://www.geonames.org/2658502
+Stegmatt,https://www.geonames.org/10194791
+Bodme,https://www.geonames.org/11403255
+Sverdlovskaya Oblast’,https://www.geonames.org/1490542
+New Milton,https://www.geonames.org/2641609
+Hausen,https://www.geonames.org/3230439
+Capalotta,https://www.geonames.org/11218901
+Bodmen,https://www.geonames.org/6932229
+Grandson,https://www.geonames.org/7285961
+Zweibrücken,https://www.geonames.org/2803620
+Heidbühl,https://www.geonames.org/2908090
+Bodmen,https://www.geonames.org/6932229
+Siena,https://www.geonames.org/3166548
+Heiligenschwendi,https://www.geonames.org/2660391
+Bodmen,https://www.geonames.org/6932229
+Heimberg,https://www.geonames.org/2660390
+Steinen,https://www.geonames.org/2658488
+Bodmen,https://www.geonames.org/6932229
+Grange des Bois,https://www.geonames.org/11540424
+Heimenschwand,https://www.geonames.org/2660389
+Steini,https://www.geonames.org/10194770
+Grange des Tilles,https://www.geonames.org/11215812
+Heimiswil,https://www.geonames.org/7286051
+Boirion,https://www.geonames.org/11217956
+Grange du Bras,https://www.geonames.org/11215884
+Monaco,https://www.geonames.org/2993458
+Heimweid,https://www.geonames.org/11215286
+Carrera,https://www.geonames.org/3565186
+Steinstössi,https://www.geonames.org/10131256
+Granges,https://www.geonames.org/6454618
+Glarus,https://www.geonames.org/2660594
+Braine-le-Comte,https://www.geonames.org/2801150
+Bitburg,https://www.geonames.org/2948184
+Haiti,https://www.geonames.org/3723988
+Steinstücki,https://www.geonames.org/10130942
+Bois,https://www.geonames.org/5905126
+Politischer Bezirk Tulln,https://www.geonames.org/2763265
+Hermiswil,https://www.geonames.org/2660361
+Casaccia,https://www.geonames.org/2661262
+Stigli,https://www.geonames.org/10130972
+Bonn,https://www.geonames.org/2946447
+Grens,https://www.geonames.org/7285976
+Herzogenbuchsee,https://www.geonames.org/7286078
+Stockboden,https://www.geonames.org/10131250
+Bonatchiesse,https://www.geonames.org/10387246
+Gros-de-Vaud District,https://www.geonames.org/7285003
+Palma,https://www.geonames.org/2512989
+Châtenay-Malabry,https://www.geonames.org/3026108
+Elefsina,https://www.geonames.org/262752
+Skelmersdale,https://www.geonames.org/2637752
+Hilterfingen,https://www.geonames.org/2660351
+Caschegna,https://www.geonames.org/11218884
+Stöckmatt,https://www.geonames.org/10130968
+Gryon,https://www.geonames.org/2660462
+Hindelbank,https://www.geonames.org/7286085
+Gryon,https://www.geonames.org/2660462
+Hinderem See,https://www.geonames.org/11215641
+Guévaux,https://www.geonames.org/2660454
+Châtillon,https://www.geonames.org/3026083
+Henniez,https://www.geonames.org/7286061
+Cassan,https://www.geonames.org/8975269
+Hintere-Windspillen,https://www.geonames.org/2660347
+Castañeda,https://www.geonames.org/3565033
+Bonnévouette,https://www.geonames.org/11217400
+Huémoz,https://www.geonames.org/2660296
+Hinterkappelen,https://www.geonames.org/2660344
+Castasegna,https://www.geonames.org/2661255
+Teuftal,https://www.geonames.org/10131076
+Hinter Netschbühl,https://www.geonames.org/2660342
+Treberen,https://www.geonames.org/10131040
+Kendal,https://www.geonames.org/11495512
+Hinter Wallegg,https://www.geonames.org/2660339
+Castel,https://www.geonames.org/6692239
+Bord,https://www.geonames.org/3031600
+Reunion,https://www.geonames.org/935316
+Hirschhorn,https://www.geonames.org/2903624
+Bord,https://www.geonames.org/3031600
+Höhe,https://www.geonames.org/2902211
+Castels,https://www.geonames.org/3028324
+Bord,https://www.geonames.org/3031600
+Trogen,https://www.geonames.org/2658307
+Gubbio,https://www.geonames.org/3175687
+Altenvoerde,https://www.geonames.org/2957429
+Hohfluh,https://www.geonames.org/2660315
+Castiel,https://www.geonames.org/2661252
+Trogmatt,https://www.geonames.org/10131073
+Cauco,https://www.geonames.org/7285445
+Boreime,https://www.geonames.org/11216988
+Unter Agglistal,https://www.geonames.org/10130964
+Jean des Bois,https://www.geonames.org/11215908
+Cavaglià,https://www.geonames.org/3179336
+Unterem Stock,https://www.geonames.org/10131232
+Jolimont,https://www.geonames.org/11563421
+Cavagliola,https://www.geonames.org/11219606
+Unterhaus,https://www.geonames.org/10194784
+Enschede,https://www.geonames.org/2756071
+Netherlands,https://www.geonames.org/2750405
+Cavaionc,https://www.geonames.org/11219746
+Bort-les-Orgues,https://www.geonames.org/3031501
+Hondrich,https://www.geonames.org/2660307
+Groningen,https://www.geonames.org/2755251
+Woodford,https://www.geonames.org/11494912
+Unter Sack,https://www.geonames.org/10131199
+Joux Verte,https://www.geonames.org/11215776
+Grisons,https://www.geonames.org/2660522
+Unter Sassi,https://www.geonames.org/10130979
+Jura-Nord vaudois District,https://www.geonames.org/7285004
+Corse,https://www.geonames.org/3023517
+Wiener Neudorf,https://www.geonames.org/7872984
+Grosse Ile Municipal Airport,https://www.geonames.org/4994856
+Hornkessel,https://www.geonames.org/2660302
+Cavril,https://www.geonames.org/11219474
+Borza,https://www.geonames.org/684135
+Unter Spis,https://www.geonames.org/10130991
+Cazis,https://www.geonames.org/2661242
+Bossat,https://www.geonames.org/11217257
+Unter Staldifeld,https://www.geonames.org/10194738
+Beled,https://www.geonames.org/3055196
+Cebbia,https://www.geonames.org/11219449
+Botyre,https://www.geonames.org/10384487
+Unter Wissiflüeli,https://www.geonames.org/10194778
+Porthcurno,https://www.geonames.org/2640052
+Celerina,https://www.geonames.org/2661241
+La Bazine,https://www.geonames.org/11215434
+Uzbekistan,https://www.geonames.org/1512440
+Loosdrecht,https://www.geonames.org/8714374
+Urnerstafel,https://www.geonames.org/2658220
+Hügel,https://www.geonames.org/2898011
+L'Abbaye,https://www.geonames.org/7287676
+Hünibach,https://www.geonames.org/2660291
+La Bellangère,https://www.geonames.org/11048327
+Lleida,https://www.geonames.org/3118514
+Hunzigenbrügg,https://www.geonames.org/2660288
+Chalchais,https://www.geonames.org/11219461
+Bourg-Saint-Pierre,https://www.geonames.org/7285311
+Vorder Diegisbalm,https://www.geonames.org/10194795
+Chevilly-Larue,https://www.geonames.org/3025314
+Norge,https://www.geonames.org/4776243
+Huttwil,https://www.geonames.org/2660281
+Iffigenalp,https://www.geonames.org/2660278
+La Bergerie,https://www.geonames.org/934412
+Bouveret,https://www.geonames.org/11962787
+Biot,https://www.geonames.org/3032579
+Porto Ercole,https://www.geonames.org/3170119
+Illiswil,https://www.geonames.org/2660270
+Im Brand,https://www.geonames.org/2606435
+Champesch,https://www.geonames.org/11218808
+Vorder Husmatt,https://www.geonames.org/10194812
+Chaudfontaine,https://www.geonames.org/2800438
+Campfer,https://www.geonames.org/2661278
+Boveresse,https://www.geonames.org/8468978
+La Biolatte,https://www.geonames.org/11215752
+Vorder Spis,https://www.geonames.org/10130935
+Bovernier,https://www.geonames.org/7285315
+La Biole,https://www.geonames.org/11218700
+Vorder Wissiflue,https://www.geonames.org/10194779
+Vorsäss,https://www.geonames.org/10131205
+La Carrière,https://www.geonames.org/3723308
+Loutraki,https://www.geonames.org/258066
+Boviri,https://www.geonames.org/11216043
+Inderi Ey,https://www.geonames.org/11214968
+Chants,https://www.geonames.org/2661216
+Waldheim,https://www.geonames.org/2814956
+Walmattli,https://www.geonames.org/10194811
+Brägji,https://www.geonames.org/11216419
+Waltersberg,https://www.geonames.org/2814425
+Zwentendorf,https://www.geonames.org/2760430
+Ostia,https://www.geonames.org/11720759
+Romsey,https://www.geonames.org/2639189
+Inneri Tüüffi,https://www.geonames.org/11215523
